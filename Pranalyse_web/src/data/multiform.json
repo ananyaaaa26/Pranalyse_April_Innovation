@@ -1,0 +1,394 @@
+[
+  {
+    "title": "Basic Profile",
+    "required":true,
+    "questions": [
+      {
+        "ques": "Gender",
+        "answertype": "dropdown",
+        "options": ["Male", "Female"]
+      },
+      {
+        "ques": "Age",
+        "answertype": "selfwrite"
+      },
+      {
+        "ques": "Height",
+        "answertype": "selfwrite",
+        "note": "cm / ft-in"
+      },
+      {
+        "ques": "Weight",
+        "answertype": "selfwrite",
+        "note": "kg / lbs"
+      },
+      {
+        "ques": "BMI",
+        "answertype": "autoCalculated"
+      },
+      {
+        "ques": "Healthy weight range",
+        "answertype": "autoCalculated"
+      },
+      {
+        "ques": "Body type (optional)",
+        "answertype": "dropdown",
+        "options": ["Ectomorph", "Mesomorph", "Endomorph", "Not sure"]
+      }
+    ]
+  },
+  {
+    "title": "Lifestyle & Daily Routine",
+    "questions": [
+      {
+        "ques": "Occupation type",
+        "answertype": "dropdown",
+        "options": ["Desk job", "Standing job", "Physically active job", "Student", "Homemaker"]
+      },
+      {
+        "ques": "Daily activity level",
+        "answertype": "dropdown",
+        "options": ["Sedentary (little to no exercise)", "Lightly active (1–3 days/week)", "Moderately active (3–5 days/week)", "Very active (6–7 days/week)"]
+      },
+      {
+        "ques": "Average sleep duration",
+        "answertype": "dropdown",
+        "options": ["<5 hours", "5–6 hours", "6–7 hours", "7–8 hours", "8+ hours"]
+      },
+      {
+        "ques": "Sleep quality",
+        "answertype": "dropdown",
+        "options": ["Poor", "Average", "Good"]
+      },
+      {
+        "ques": "Stress level",
+        "answertype": "dropdown",
+        "options": ["Low", "Moderate", "High"]
+      },
+      {
+        "ques": "Work schedule",
+        "answertype": "dropdown",
+        "options": ["Fixed", "Rotational", "Night shift"]
+      },
+      {
+        "ques": "Daily step count (approx.)",
+        "answertype": "dropdown",
+        "options": [1000, 3000, 5000, 7000, 10000]
+      },
+      {
+        "ques": "Break frequency during work",
+        "answertype": "dropdown",
+        "options": ["Rarely", "Sometimes", "Often"]
+      },
+      {
+        "ques": "Energy levels during the day",
+        "answertype": "dropdown",
+        "options": ["Low", "Medium", "High"]
+      }
+    ]
+  },
+  {
+    "title": "Food Preferences & Diet",
+    "questions": [
+      {
+        "ques": "Diet type",
+        "answertype": "dropdown",
+        "options": ["Vegetarian", "Eggetarian", "Non-vegetarian", "Vegan"]
+      },
+      {
+        "ques": "Food allergies / intolerances",
+        "answertype": "dropdown",
+        "multiSelect": true,
+        "options": ["Lactose", "Gluten", "Nuts", "Soy", "Seafood", "None", "Other (text)"]
+      },
+      {
+        "ques": "Meals per day",
+        "answertype": "dropdown",
+        "options": ["2", "3", "4+", "Irregular"]
+      },
+      {
+        "ques": "Common cravings",
+        "answertype": "dropdown",
+        "multiSelect": true,
+        "options": ["Sugar", "Fried food", "Late-night snacks", "Soft drinks", "None"]
+      },
+      {
+        "ques": "Water intake (approx.)",
+        "answertype": "dropdown",
+        "options": ["<1 L", "1–2 L", "2–3 L", "3+ L"]
+      },
+      {
+        "ques": "Typical meal timing",
+        "answertype": "dropdown",
+        "options": ["Early", "Normal", "Late"]
+      },
+      {
+        "ques": "Eating pattern",
+        "answertype": "dropdown",
+        "options": ["Home-cooked", "Mixed", "Mostly outside food"]
+      },
+      {
+        "ques": "Sugar intake frequency",
+        "answertype": "dropdown",
+        "options": ["Daily", "Few times/week", "Rare"]
+      },
+      {
+        "ques": "Protein intake awareness",
+        "answertype": "dropdown",
+        "options": ["Low", "Moderate", "High", "Not sure"]
+      },
+      {
+        "ques": "Snacking habit",
+        "answertype": "dropdown",
+        "options": ["Frequent", "Occasional", "Rare"]
+      }
+    ]
+  },
+  {
+    "title": "Medical & Physical Health",
+    "questions": [
+      {
+        "ques": "Existing medical conditions",
+        "answertype": "dropdown",
+        "multiSelect": true,
+        "options": ["Diabetes", "Thyroid", "PCOS/PCOD", "BP (High/Low)", "Heart condition", "None"]
+      },
+      {
+        "ques": "Physical pain or injuries",
+        "answertype": "dropdown",
+        "multiSelect": true,
+        "options": ["Back pain", "Knee pain", "Neck pain", "Shoulder pain", "Post-surgery", "None"]
+      },
+      {
+        "ques": "Current medications",
+        "answertype": "selfwrite"
+      },
+      {
+        "ques": "Past surgeries or injuries",
+        "answertype": "selfwrite"
+      },
+      {
+        "ques": "Doctor restrictions (if any)",
+        "answertype": "selfwrite"
+      },
+      {
+        "ques": "Mobility limitations",
+        "answertype": "dropdown",
+        "options": ["None", "Mild", "Moderate", "Severe"]
+      },
+      {
+        "ques": "Pain intensity scale",
+        "answertype": "selfwrite",
+        "note": "1–10"
+      },
+      {
+        "ques": "Pregnancy / postpartum (if applicable)",
+        "answertype": "dropdown",
+        "options": ["Yes", "No", "Not applicable"]
+      }
+    ]
+  },
+  {
+    "title": "Fitness & Yoga Experience",
+    "questions": [
+      {
+        "ques": "Exercise experience",
+        "answertype": "dropdown",
+        "options": ["Beginner (never exercised)", "Intermediate", "Advanced"]
+      },
+      {
+        "ques": "Yoga experience",
+        "answertype": "dropdown",
+        "options": ["None", "Beginner", "Regular practitioner"]
+      },
+      {
+        "ques": "Workout preference",
+        "answertype": "dropdown",
+        "options": ["Home workout", "Gym", "Outdoor"]
+      },
+      {
+        "ques": "Time available per day",
+        "answertype": "dropdown",
+        "options": ["10–15 mins", "20–30 mins", "45–60 mins"]
+      },
+      {
+        "ques": "Current workout frequency",
+        "answertype": "dropdown",
+        "options": ["0", "1–2", "3–4", "5+"]
+      },
+      {
+        "ques": "Types of workouts done before",
+        "answertype": "dropdown",
+        "multiSelect": true,
+        "options": ["Cardio", "Strength", "Yoga", "Mixed", "NA"]
+      },
+      {
+        "ques": "Injury during workouts before",
+        "answertype": "dropdown",
+        "options": ["Yes", "No"]
+      }
+    ]
+  },
+  {
+    "title": "Goals & Motivation",
+    "questions": [
+      {
+        "ques": "Primary goal",
+        "answertype": "dropdown",
+        "options": ["Weight loss", "Weight gain", "Muscle toning", "Pain relief", "Flexibility", "Overall fitness"]
+      },
+      {
+        "ques": "Goal duration",
+        "answertype": "dropdown",
+        "options": ["1 month", "3 months", "6 months"]
+      },
+      {
+        "ques": "Target weight (optional)",
+        "answertype": "selfwrite"
+      },
+      {
+        "ques": "Biggest challenge",
+        "answertype": "dropdown",
+        "options": ["Lack of time", "Low motivation", "Inconsistent routine", "Poor diet control", "Pain/injury"]
+      },
+      {
+        "ques": "Secondary goal",
+        "answertype": "selfwrite"
+      },
+      {
+        "ques": "Any other goals",
+        "answertype": "selfwrite"
+      },
+      {
+        "ques": "Motivation reason",
+        "answertype": "dropdown",
+        "options": ["Health", "Appearance", "Medical", "Lifestyle"]
+      },
+      {
+        "ques": "Goal priority",
+        "answertype": "dropdown",
+        "options": ["Quick results", "Sustainable progress"]
+      },
+      {
+        "ques": "Past attempts",
+        "answertype": "dropdown",
+        "options": ["Never tried", "Tried but failed", "Successful before"]
+      }
+    ]
+  },
+  {
+    "title": "Habits & Behavior",
+    "questions": [
+      {
+        "ques": "Smoking",
+        "answertype": "dropdown",
+        "options": ["No", "Occasionally", "Regularly"]
+      },
+      {
+        "ques": "Alcohol consumption",
+        "answertype": "dropdown",
+        "options": ["No", "Occasionally", "Weekly", "Frequently"]
+      },
+      {
+        "ques": "Screen time per day",
+        "answertype": "dropdown",
+        "options": ["<2 hours", "2–4 hours", "4–6 hours", "6+ hours"]
+      },
+      {
+        "ques": "Readiness to change habits",
+        "answertype": "dropdown",
+        "options": ["Very ready", "Somewhat ready", "Not sure"]
+      },
+      {
+        "ques": "Consistency level",
+        "answertype": "dropdown",
+        "options": ["Very inconsistent", "Sometimes consistent", "Very consistent"]
+      },
+      {
+        "ques": "Procrastination tendency",
+        "answertype": "dropdown",
+        "options": ["Low", "Medium", "High"]
+      },
+      {
+        "ques": "Emotional or stress eating",
+        "answertype": "dropdown",
+        "options": ["Yes", "Sometimes", "No"]
+      },
+      {
+        "ques": "Weekend or holiday lifestyle",
+        "answertype": "dropdown",
+        "options": ["Active", "Relaxed", "Party-heavy"]
+      }
+    ]
+  },
+  {
+    "title": "Preferences & Reminders",
+    "questions": [
+      {
+        "ques": "Preferred workout time",
+        "answertype": "dropdown",
+        "options": ["Morning", "Afternoon", "Evening"]
+      },
+      {
+        "ques": "Reminder preference",
+        "answertype": "dropdown",
+        "options": ["Push notification", "WhatsApp", "Email", "None"]
+      },
+      {
+        "ques": "Motivation style",
+        "answertype": "dropdown",
+        "options": ["Gentle encouragement", "Strict & disciplined", "Educational tips"]
+      },
+      {
+        "ques": "Preferred workout duration style",
+        "answertype": "dropdown",
+        "options": ["Short & intense", "Long & relaxed"]
+      },
+      {
+        "ques": "Music preference during workouts",
+        "answertype": "dropdown",
+        "options": ["Yes", "No"]
+      },
+      {
+        "ques": "Language preference",
+        "answertype": "selfwrite"
+      },
+      {
+        "ques": "Content format",
+        "answertype": "dropdown",
+        "options": ["Video", "Text", "Guided audio"]
+      },
+      {
+        "ques": "Reminder frequency",
+        "answertype": "dropdown",
+        "options": ["Daily", "Few times/week", "Custom"]
+      }
+    ]
+  },
+  {
+    "title": "Progress Tracking & Feedback",
+    "questions": [
+      {
+        "ques": "How often do you want progress check-ins?",
+        "answertype": "dropdown",
+        "options": ["Daily", "Weekly", "Bi-weekly", "Monthly"]
+      },
+      {
+        "ques": "Preferred tracking metrics",
+        "answertype": "dropdown",
+        "multiSelect": true,
+        "options": ["Weight", "Measurements", "Strength", "Energy"]
+      },
+      {
+        "ques": "Willingness to log daily data",
+        "answertype": "dropdown",
+        "options": ["Yes", "Sometimes", "No"]
+      },
+      {
+        "ques": "Photo progress tracking",
+        "answertype": "dropdown",
+        "options": ["Yes", "No"]
+      }
+    ]
+  }
+]

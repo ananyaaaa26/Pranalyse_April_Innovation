@@ -1,0 +1,60 @@
+{
+  "sections": [
+    {
+      "sid": "section_1",
+      "title": "Section Title Here",
+      "items": [
+        {
+          "item_id": "item_1",
+          "title": "Item Title Here",
+          "category": "routine",  
+          "routine": true,       
+          "image": "/path-to-image.jpg",
+          "sub_heading": "Short subtitle here",
+          "IntroPara": "Introductory paragraph about the routine or tip.",
+          "content": "Detailed description of the item. Explain what it is, how to do it, and any important notes.",
+          "problems": [
+            "Problem 1",
+            "Problem 2"
+          ],
+          "workout_based": true,
+          "yoga": false,
+          "exercise": [
+            "Exercise 1",
+            "Exercise 2"
+          ],
+          "benefits": [
+            "Benefit 1",
+            "Benefit 2"
+          ],
+          "suggested_videos": [
+            "https://example.com/video-link"
+          ],
+          "time_required": "10 minutes",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Equipment 1"
+          ],
+          "targeted_body_area": [
+            "Body part 1",
+            "Body part 2"
+          ],
+          "endtitle": "Concluding Title Here",
+          "endline": "Concluding sentence or tip here.",
+          "Credentials": false,
+          "credits": "Author / Trainer / Source",
+          "tags": [
+            "tag1",
+            "tag2"
+          ],
+            "Recommended": ["Food 1", "Food 2"],
+          "Deficiency": ["Vitamin D", "Iron"],
+          "Include": ["Include item 1", "Include item 2"],
+          "Avoid": ["Avoid item 1", "Avoid item 2"],
+          "Tips": ["Tip 1", "Tip 2"],
+          "Fact": ["Interesting fact 1", "Interesting fact 2"]
+        }
+      ]
+    }
+  ]
+}

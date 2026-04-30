@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is Pranalyse and who is Pranalyse designed for?",
+    "answer": "Pranalyse combines Prana(life) and Analyse, a platform that understands and improves how we move, eat, and live. It’s basically an AI-powered wellness platform that turns a smartphone or laptop into a real-time wellness coach/companion. It analyzes posture, movement, and lifestyle and provides instant corrective feedback, personalized exercises, diet recommendation and health guidance.\n\nPranalyse is designed for home fitness users, office workers with sedentary lifestyles, physiotherapy patients, yoga practitioners, students and anyone who wants safe and effective health guidance."
+  },
+  {
+    "question": "Does the app require wearable devices or sensors? Or do users need a gym or equipment?",
+    "answer": "No. Pranalyse only needs the camera of a smartphone or laptop. No external wearables or hardware are required."
+  },
+  {
+    "question": "Does Pranalyse work in real time?",
+    "answer": "Yes. The platform processes camera input in real time and provides instant visual or voice feedback during exercises."
+  },
+  {
+    "question": "What types of exercises does Pranalyse support?",
+    "answer": "Pranalyse supports yoga, physiotherapy exercises, home workouts, quick desk exercises, and many more guided movement routines."
+  },
+  {
+    "question": "How does the holistic healing system work?",
+    "answer": "User parameters such as age, gender, weight, height, BMI, lifestyle, allergies, diet preference, and fitness goals are considered to generate personalized holistic healing suggestions."
+  },
+  {
+    "question": "Does the app track progress?",
+    "answer": "Yes. Pranalyse tracks progress and generates reports showing posture improvement, workout consistency and fitness progress."
+  },
+  {
+    "question": "Is the app beginner-friendly?",
+    "answer": "Yes. The platform provides guided exercises and simple feedback suitable for beginners."
+  },
+  {
+    "question": "Does Pranalyse support multiple languages?",
+    "answer": "Yes. The app is designed to support voice activation and multi-language guidance for accessibility."
+  },
+  {
+    "question": "Can Pranalyse be used for physiotherapy recovery?",
+    "answer": "Yes. It helps patients perform rehabilitation exercises correctly and reduces the risk of re-injury."
+  },
+  {
+    "question": "What is the 3D model feature?",
+    "answer": "Pranalyse uses a 3D avatar to visually demonstrate correct posture and joint alignment so users can understand how their body should move."
+  }
+]

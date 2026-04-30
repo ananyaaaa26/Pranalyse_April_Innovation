@@ -1,0 +1,475 @@
+[
+  {
+    "title": "Downward Facing Dog (Adho Mukha Svanasana)",
+    "eng-name": "Downward Facing Dog",
+    "hindi-name": "Adho Mukha Svanasana",
+    "description": "Adho Mukha Svanasana, also known as Downward Dog. Improves flexibility, strengthens arms and legs, relieves back pain, energizes the body.",
+    "symbolismAndEnergetics": "Represents surrender and humility. Energizes the body and calms the mind.",
+    "category": "hatha",
+    "instructions": "1. Start on hands and knees.\n2. Spread fingers wide, tuck toes, lift hips up and back.\n3. Keep spine straight, heels pressing toward the floor.\n4. Hold for 5-10 breaths.",
+    "difficulty": "beginner",
+    "muscles": ["hamstrings", "calves", "shoulders", "arms", "back"],
+    "chakraFocus": "adrenal and solar plexus",
+    "contraindications": "carpal tunnel syndrome, severe hypertension, pregnancy (consult doctor).",
+    "benefits": [
+      "stretches hamstrings, calves, and spine",
+      "strengthens arms and legs",
+      "improves circulation",
+      "calms the mind and relieves stress"
+    ],
+    "precautions": [
+      "avoid locking elbows",
+      "keep knees slightly bent if hamstrings are tight"
+    ],
+    "tips": [
+      "press evenly through palms and fingers",
+      "engage the core to protect the lower back",
+      "breathe deeply and steadily"
+    ],
+    "tags": ["stretch", "beginner", "hatha", "energizing", "arm-strength"],
+    "link": "char.png",
+    "videoUrl": "/yoga/poses/videos/downward-facing-dog.mp4"
+  },
+  {
+    "title": "Tree Pose (Vrikshasana)",
+    "eng-name": "Tree Pose",
+    "hindi-name": "Vrikshasana",
+    "description": "Vrikshasana, also called Tree Pose. Improves balance, strengthens legs, opens hips, enhances concentration.",
+    "symbolismAndEnergetics": "Symbolizes rootedness and stability. Promotes grounding and focus.",
+    "category": "vinyasa",
+    "instructions": "1. Stand tall with feet together.\n2. Shift weight onto left foot, place right foot on inner left thigh.\n3. Bring palms together at heart or overhead.\n4. Hold for 5-10 breaths, then switch sides.",
+    "difficulty": "intermediate",
+    "muscles": ["quadriceps", "calves", "glutes", "core"],
+    "chakraFocus": "root and heart chakra",
+    "contraindications": "knee or ankle injury, balance issues (use support).",
+    "benefits": [
+      "improves balance and stability",
+      "strengthens legs and core",
+      "opens hips",
+      "enhances focus and concentration"
+    ],
+    "precautions": [
+      "avoid pressing foot directly on the knee",
+      "use a wall for support if balance is difficult"
+    ],
+    "tips": [
+      "engage standing leg firmly",
+      "gaze at a fixed point for stability",
+      "breathe deeply and evenly"
+    ],
+    "tags": ["balance", "vinyasa", "leg-strength", "focus", "intermediate"],
+    "link": "char.png",
+    "videoUrl": "/yoga/poses/videos/tree-pose.mp4"
+  },
+  {
+    "title": "Mountain Pose (Tadasana)",
+    "eng-name": "Mountain Pose",
+    "hindi-name": "Tadasana",
+    "description": "Tadasana, also called Mountain Pose. Foundation for all standing poses. Improves posture, strengthens legs, and enhances body awareness.",
+    "symbolismAndEnergetics": "Represents stability and grounding. Balances energy and calms the mind.",
+    "category": "hatha",
+    "instructions": "1. Stand with feet together, arms at sides.\n2. Distribute weight evenly across both feet.\n3. Engage thigh muscles, lift chest, and lengthen spine.\n4. Inhale, raise arms overhead, palms facing each other.\n5. Hold for 5-10 breaths.",
+    "difficulty": "beginner",
+    "muscles": ["quadriceps", "calves", "spine", "shoulders", "core"],
+    "chakraFocus": "root and crown chakra",
+    "contraindications": "severe low back pain or recent surgery (consult doctor).",
+    "benefits": [
+      "improves posture",
+      "strengthens legs and core",
+      "enhances body awareness and balance",
+      "calms the mind"
+    ],
+    "precautions": [
+      "avoid locking knees",
+      "keep shoulders relaxed"
+    ],
+    "tips": [
+      "stand tall like a mountain",
+      "distribute weight evenly on both feet",
+      "breathe steadily and deeply"
+    ],
+    "tags": ["beginner", "hatha", "posture", "grounding", "balance"],
+    "link": "char.png",
+    "videoUrl": "/yoga/poses/videos/tadasana.mp4"
+  },
+  {
+    "title": "Warrior I (Virabhadrasana I)",
+    "eng-name": "Warrior I",
+    "hindi-name": "Virabhadrasana I",
+    "description": "Virabhadrasana I, or Warrior I. Strengthens legs, stretches hips, opens chest, improves focus and stamina.",
+    "symbolismAndEnergetics": "Represents courage and inner strength. Energizes the body and builds determination.",
+    "category": "vinyasa",
+    "instructions": "1. Step one foot back, front knee bent, back leg straight.\n2. Keep hips facing forward.\n3. Raise arms overhead, palms facing each other.\n4. Hold for 5-10 breaths, then switch sides.",
+    "difficulty": "intermediate",
+    "muscles": ["quadriceps", "hamstrings", "glutes", "core", "shoulders"],
+    "chakraFocus": "root and solar plexus chakra",
+    "contraindications": "knee or hip injury, high blood pressure (consult doctor).",
+    "benefits": [
+      "strengthens legs and core",
+      "opens chest and shoulders",
+      "improves balance and stability",
+      "enhances focus and stamina"
+    ],
+    "precautions": [
+      "avoid overextending the back knee",
+      "keep front knee aligned over ankle"
+    ],
+    "tips": [
+      "press firmly through both feet",
+      "square hips toward front",
+      "breathe deeply and steadily"
+    ],
+    "tags": ["vinyasa", "leg-strength", "balance", "intermediate", "focus"],
+    "link": "char.png",
+    "videoUrl": "/yoga/poses/videos/warrior-i-pose.mp4"
+  },
+  {
+    "title": "Warrior II (Virabhadrasana II)",
+    "eng-name": "Warrior II",
+    "hindi-name": "Virabhadrasana II",
+    "description": "Virabhadrasana II, or Warrior II. Strengthens legs, opens hips, stretches shoulders, improves stamina and focus.",
+    "symbolismAndEnergetics": "Represents courage, determination, and readiness. Energizes body while calming the mind.",
+    "category": "vinyasa",
+    "instructions": "1. Step one foot back, front knee bent, back leg straight.\n2. Turn torso to the side, arms extended parallel to floor.\n3. Gaze over front hand.\n4. Hold for 5-10 breaths, then switch sides.",
+    "difficulty": "intermediate",
+    "muscles": ["quadriceps", "hamstrings", "glutes", "shoulders", "core"],
+    "chakraFocus": "root and heart chakra",
+    "contraindications": "knee or hip injury, dizziness (consult doctor).",
+    "benefits": [
+      "strengthens legs and core",
+      "stretches hips and shoulders",
+      "improves stamina and focus",
+      "enhances body awareness"
+    ],
+    "precautions": [
+      "keep front knee over ankle",
+      "avoid collapsing chest forward"
+    ],
+    "tips": [
+      "press evenly through both feet",
+      "keep arms strong and parallel",
+      "maintain steady gaze and breathing"
+    ],
+    "tags": ["vinyasa", "leg-strength", "balance", "intermediate", "focus"],
+    "link": "char.png",
+    "videoUrl": "/yoga/poses/videos/warrior-ii.mp4"
+  },
+  {
+    "title": "Warrior III (Virabhadrasana III)",
+    "eng-name": "Warrior III",
+    "hindi-name": "Virabhadrasana III",
+    "description": "Virabhadrasana III, or Warrior III, is a balancing pose that strengthens legs, core, and back while improving concentration and stability.",
+    "symbolismAndEnergetics": "Represents focus, determination, and forward movement. Energizes body and mind.",
+    "category": "vinyasa",
+    "instructions": "1. Start in Warrior I position.\n2. Shift weight onto front leg, lift back leg parallel to the floor.\n3. Lean torso forward, arms extended overhead or forward.\n4. Keep body in one straight line from fingertips to lifted foot.\n5. Hold for 5-10 breaths, then switch sides.",
+    "difficulty": "advanced",
+    "muscles": ["quadriceps", "hamstrings", "glutes", "core", "shoulders", "back"],
+    "chakraFocus": "root and solar plexus chakra",
+    "contraindications": "knee, ankle, or lower back injuries, balance issues (use support).",
+    "benefits": [
+      "strengthens legs, core, and back",
+      "improves balance and stability",
+      "enhances focus and concentration",
+      "stimulates energy and stamina"
+    ],
+    "precautions": [
+      "avoid locking standing knee",
+      "keep hips square to the floor",
+      "use wall for support if balance is difficult"
+    ],
+    "tips": [
+      "engage core for stability",
+      "reach through both arms and lifted leg",
+      "breathe steadily and deeply"
+    ],
+    "tags": ["vinyasa", "balance", "leg-strength", "core", "advanced"],
+    "link": "char.png",
+    "videoUrl": "/yoga/poses/videos/warrior-iii.mp4"
+  },
+  {
+    "title": "Cobra Pose (Bhujangasana)",
+    "eng-name": "Cobra Pose",
+    "hindi-name": "Bhujangasana",
+    "description": "Bhujangasana, or Cobra Pose, is a gentle backbend that strengthens the spine, stretches the chest, and stimulates abdominal organs.",
+    "symbolismAndEnergetics": "Represents awakening and expansion. Opens heart and energizes the body.",
+    "category": "hatha",
+    "instructions": "1. Lie face down, legs together, hands under shoulders.\n2. Press tops of feet and thighs into floor.\n3. Inhale, lift chest while keeping elbows slightly bent.\n4. Roll shoulders back and keep neck neutral.\n5. Hold for 5-10 breaths.",
+    "difficulty": "beginner",
+    "muscles": ["spine", "back", "glutes", "shoulders", "chest", "core"],
+    "chakraFocus": "heart and solar plexus chakra",
+    "contraindications": "recent abdominal surgery, severe back injury, pregnancy (consult doctor).",
+    "benefits": [
+      "strengthens spine and back muscles",
+      "stretches chest and shoulders",
+      "improves posture",
+      "stimulates abdominal organs and digestion"
+    ],
+    "precautions": [
+      "avoid overextending lower back",
+      "engage core to protect spine",
+      "keep elbows slightly bent"
+    ],
+    "tips": [
+      "press evenly through pelvis and feet",
+      "lift chest gently without straining",
+      "breathe deeply and calmly"
+    ],
+    "tags": ["beginner", "hatha", "backbend", "spine-strength", "energizing"],
+    "link": "char.png",
+    "videoUrl": "/yoga/poses/videos/cobra-pose.mp4"
+  },
+  {
+    "title": "Sphinx Pose (Sphinx Asana)",
+    "eng-name": "Sphinx Pose",
+    "hindi-name": "Sphinx Asana",
+    "description": "Sphinx Pose is a gentle backbend that strengthens the spine, opens the chest, and stimulates the abdominal organs while being very beginner-friendly.",
+    "symbolismAndEnergetics": "Represents awakening and alertness. Energizes the body and calms the mind.",
+    "category": "hatha",
+    "instructions": "1. Lie on stomach, legs together, elbows under shoulders, forearms on the floor.\n2. Press forearms into the floor, lift chest and head.\n3. Draw shoulders back and down, keep neck neutral.\n4. Hold for 5-10 breaths.",
+    "difficulty": "beginner",
+    "muscles": ["spine", "back", "glutes", "shoulders", "chest", "core"],
+    "chakraFocus": "heart and solar plexus chakra",
+    "contraindications": "severe back injury, pregnancy (consult doctor).",
+    "benefits": [
+      "strengthens spine and back muscles",
+      "stretches chest and shoulders",
+      "improves posture",
+      "gently stimulates abdominal organs"
+    ],
+    "precautions": [
+      "avoid sinking lower back",
+      "keep elbows under shoulders",
+      "engage core to protect spine"
+    ],
+    "tips": [
+      "press forearms evenly into floor",
+      "lift chest gently without strain",
+      "breathe deeply and calmly"
+    ],
+    "tags": ["beginner", "hatha", "backbend", "spine-strength", "gentle"],
+    "link": "char.png",
+    "videoUrl": "/yoga/poses/videos/sphinx-pose.mp4"
+  },
+  {
+    "title": "Spinal Twist (Merudanda Twist / Parivartanasana)",
+    "eng-name": "Spinal Twist",
+    "hindi-name": "Merudanda Twist / Parivartanasana",
+    "description": "Parivartanasana, or Spinal Twist, is a seated or supine twist that stretches the spine, massages internal organs, and improves digestion.",
+    "symbolismAndEnergetics": "Represents release and detoxification. Calms the nervous system and balances energy.",
+    "category": "hatha",
+    "instructions": "1. Sit or lie on your back.\n2. Cross one leg over the other or bend knees toward chest if supine.\n3. Twist spine gently to one side, shoulders grounded.\n4. Hold for 5-10 breaths, then switch sides.",
+    "difficulty": "beginner",
+    "muscles": ["spine", "obliques", "shoulders", "hip flexors"],
+    "chakraFocus": "root and solar plexus chakra",
+    "contraindications": "spinal injury, severe back pain, pregnancy (consult doctor).",
+    "benefits": [
+      "stretches spine and shoulders",
+      "massages abdominal organs",
+      "improves digestion",
+      "relieves tension and stress"
+    ],
+    "precautions": [
+      "avoid forcing the twist",
+      "keep spine long and shoulders grounded"
+    ],
+    "tips": [
+      "inhale to lengthen spine, exhale to twist gently",
+      "move slowly and mindfully",
+      "use a cushion under hips if seated"
+    ],
+    "tags": ["beginner", "hatha", "spine-twist", "digestion", "relaxing"],
+    "link": "char.png",
+    "videoUrl": "/yoga/poses/videos/spinal-twist.mp4"
+  },
+  {
+    "title": "Camel Pose (Ustrasana)",
+    "eng-name": "Camel Pose",
+    "hindi-name": "Ustrasana",
+    "description": "Ustrasana, or Camel Pose, is a deep backbend that stretches the front body, opens the chest, and strengthens the back muscles.",
+    "symbolismAndEnergetics": "Represents openness and courage. Energizes the body and stimulates the heart chakra.",
+    "category": "hatha",
+    "instructions": "1. Kneel on floor, knees hip-width apart.\n2. Place hands on lower back or heels.\n3. Press hips forward, lift chest, and gently arch back.\n4. Keep neck neutral or drop head back slightly.\n5. Hold for 5-10 breaths.",
+    "difficulty": "intermediate",
+    "muscles": ["spine", "back", "hip flexors", "chest", "shoulders"],
+    "chakraFocus": "heart chakra",
+    "contraindications": "neck or back injury, pregnancy (consult doctor).",
+    "benefits": [
+      "stretches chest, abdomen, and hip flexors",
+      "strengthens back muscles",
+      "improves posture",
+      "stimulates heart and lungs"
+    ],
+    "precautions": [
+      "avoid collapsing lower back",
+      "support neck if needed",
+      "engage core to protect spine"
+    ],
+    "tips": [
+      "press hips forward steadily",
+      "lift chest gently without straining",
+      "breathe deeply and evenly"
+    ],
+    "tags": ["hatha", "backbend", "intermediate", "chest-opener", "spine-strength"],
+    "link": "char.png",
+    "videoUrl": "/yoga/poses/videos/camel-pose.mp4"
+  },
+  {
+    "title": "Cow Pose (Gomukha / Cow Pose)",
+    "eng-name": "Cow Pose",
+    "hindi-name": "Gomukha / Cow Pose",
+    "description": "Cow Pose is a gentle backbend performed with Cat Pose to mobilize the spine, improve posture, and relieve tension in the back.",
+    "symbolismAndEnergetics": "Represents openness and flexibility. Energizes the spine and balances body and mind.",
+    "category": "hatha",
+    "instructions": "1. Start on hands and knees, wrists under shoulders, knees under hips.\n2. Inhale, lift chest and tailbone, drop belly toward floor (Cow).\n3. Exhale, round spine, tuck chin to chest (Cat) – often done as a flowing sequence.\n4. Repeat 5-10 cycles.",
+    "difficulty": "beginner",
+    "muscles": ["spine", "back", "core", "neck", "shoulders"],
+    "chakraFocus": "solar plexus and sacral chakra",
+    "contraindications": "wrist, neck, or back injury (consult doctor).",
+    "benefits": [
+      "mobilizes spine",
+      "stretches back and neck",
+      "improves posture",
+      "relieves tension and stress"
+    ],
+    "precautions": [
+      "move slowly and mindfully",
+      "avoid forcing the backbend",
+      "keep wrists aligned under shoulders"
+    ],
+    "tips": [
+      "coordinate breath with movement",
+      "engage core for support",
+      "relax shoulders away from ears"
+    ],
+    "tags": ["beginner", "hatha", "spine-mobility", "gentle-backbend", "stress-relief"],
+    "link": "char.png",
+    "videoUrl": "/yoga/poses/videos/cow-pose.mp4"
+  },
+  {
+    "title": "Crescent Lunge (Ardha Chandra Lunge)",
+    "eng-name": "Crescent Lunge",
+    "hindi-name": "Ardha Chandra Lunge",
+    "description": "Ardha Chandra Lunge is a high lunge that strengthens legs, stretches hip flexors, and improves balance and stability.",
+    "symbolismAndEnergetics": "Represents forward momentum and determination. Energizes the lower body and builds focus.",
+    "category": "vinyasa",
+    "instructions": "1. Step one foot forward into a lunge, back leg straight.\n2. Align front knee over ankle, hips facing forward.\n3. Inhale, raise arms overhead, palms facing each other.\n4. Hold for 5-10 breaths, then switch sides.",
+    "difficulty": "intermediate",
+    "muscles": ["quadriceps", "hamstrings", "glutes", "hip flexors", "core", "shoulders"],
+    "chakraFocus": "root and solar plexus chakra",
+    "contraindications": "knee or hip injury, balance issues (use support).",
+    "benefits": [
+      "strengthens legs and core",
+      "stretches hip flexors and thighs",
+      "improves balance and stability",
+      "enhances focus and energy"
+    ],
+    "precautions": [
+      "keep front knee over ankle",
+      "avoid arching lower back excessively",
+      "engage core for stability"
+    ],
+    "tips": [
+      "press evenly through both feet",
+      "reach arms actively overhead",
+      "breathe deeply and steadily"
+    ],
+    "tags": ["vinyasa", "leg-strength", "hip-opener", "balance", "intermediate"],
+    "link": "char.png",
+    "videoUrl": "/yoga/poses/videos/crescent-lunge.mp4"
+  },
+  {
+    "title": "Upward Salute (Urdhva Hastasana)",
+    "eng-name": "Upward Salute",
+    "hindi-name": "Urdhva Hastasana",
+    "description": "Urdhva Hastasana, or Upward Salute, is a standing stretch that lengthens the spine, opens the chest, and improves posture and focus.",
+    "symbolismAndEnergetics": "Represents reaching upward and openness. Energizes the body and calms the mind.",
+    "category": "hatha",
+    "instructions": "1. Stand tall in Mountain Pose (Tadasana).\n2. Inhale, raise arms overhead, palms facing each other.\n3. Reach fingertips toward the sky, lengthening the spine.\n4. Hold for 5-10 breaths.",
+    "difficulty": "beginner",
+    "muscles": ["spine", "shoulders", "arms", "core", "legs"],
+    "chakraFocus": "crown and heart chakra",
+    "contraindications": "severe shoulder or back injury, dizziness (consult doctor).",
+    "benefits": [
+      "stretches spine, shoulders, and arms",
+      "improves posture and body awareness",
+      "increases energy and focus",
+      "enhances lung capacity"
+    ],
+    "precautions": [
+      "avoid locking elbows",
+      "keep shoulders relaxed"
+    ],
+    "tips": [
+      "engage core and leg muscles",
+      "reach upward without strain",
+      "breathe deeply and evenly"
+    ],
+    "tags": ["beginner", "hatha", "stretch", "posture", "energizing"],
+    "link": "char.png",
+    "videoUrl": "/yoga/poses/videos/upward-salute.mp4"
+  },
+  {
+    "title": "Eagle Pose (Garudasana)",
+    "eng-name": "Eagle Pose",
+    "hindi-name": "Garudasana",
+    "description": "Garudasana, or Eagle Pose, is a balancing posture that strengthens legs and ankles, stretches shoulders and upper back, and improves focus.",
+    "symbolismAndEnergetics": "Represents focus, precision, and the ability to rise above. Energizes the body and improves concentration.",
+    "category": "vinyasa",
+    "instructions": "1. Stand in Mountain Pose.\n2. Bend knees slightly, lift right leg, cross it over left thigh, hook foot behind left calf.\n3. Cross arms at elbows, palms together.\n4. Hold for 5-10 breaths, then switch sides.",
+    "difficulty": "intermediate",
+    "muscles": ["quadriceps", "calves", "glutes", "shoulders", "upper back", "core"],
+    "chakraFocus": "root and heart chakra",
+    "contraindications": "knee, ankle, or shoulder injuries, balance issues (use support).",
+    "benefits": [
+      "strengthens legs and ankles",
+      "stretches shoulders and upper back",
+      "improves balance and focus",
+      "enhances body awareness"
+    ],
+    "precautions": [
+      "avoid pressing foot directly on the knee",
+      "keep spine straight",
+      "use a wall for support if balance is difficult"
+    ],
+    "tips": [
+      "gaze at a fixed point for stability",
+      "engage standing leg firmly",
+      "breathe steadily and deeply"
+    ],
+    "tags": ["vinyasa", "balance", "intermediate", "focus", "shoulder-stretch"],
+    "link": "char.png",
+    "videoUrl": "/yoga/poses/videos/eagle-pose.mp4"
+  },
+  {
+    "title": "Lord of the Dance Pose (Natarajasana)",
+    "eng-name": "Lord of the Dance Pose",
+    "hindi-name": "Natarajasana",
+    "description": "Natarajasana, or Lord of the Dance Pose, is a graceful balancing backbend that strengthens legs, stretches chest and shoulders, and improves focus and poise.",
+    "symbolismAndEnergetics": "Represents balance, grace, and cosmic dance. Energizes body and mind while improving focus.",
+    "category": "vinyasa",
+    "instructions": "1. Stand in Mountain Pose.\n2. Shift weight onto left leg, bend right knee, reach back and hold right foot.\n3. Inhale, lift left arm forward or overhead, chest lifted.\n4. Lean forward slightly, keeping balance.\n5. Hold for 5-10 breaths, then switch sides.",
+    "difficulty": "advanced",
+    "muscles": ["quadriceps", "hamstrings", "glutes", "core", "spine", "shoulders"],
+    "chakraFocus": "root and heart chakra",
+    "contraindications": "knee, ankle, shoulder, or back injury, balance issues (use support).",
+    "benefits": [
+      "strengthens legs and core",
+      "stretches chest, shoulders, and thighs",
+      "improves balance, focus, and poise",
+      "enhances coordination and body awareness"
+    ],
+    "precautions": [
+      "avoid forcing backbend",
+      "keep standing leg firm and knee slightly soft",
+      "use wall for support if balance is difficult"
+    ],
+    "tips": [
+      "engage core for stability",
+      "reach through lifted arm and extended leg",
+      "breathe deeply and steadily"
+    ],
+    "tags": ["vinyasa", "balance", "advanced", "backbend", "focus"],
+    "link": "char.png",
+    "videoUrl": "/yoga/poses/videos/lord-of-the-dance.mp4"
+  }
+]

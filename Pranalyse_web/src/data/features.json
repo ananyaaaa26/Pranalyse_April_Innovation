@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Holistic Healing Hub",
+    "image": "/features/1.png",
+    "description": "We don’t just focus on one aspect of wellness, we look at your lifestyle, diet, workouts, and habits to provide truly personalized holistic healing for your mind, body and soul."
+  },
+  {
+    "id": 2,
+    "name": "Real-Time 3D Posture & Movement Tracking",
+    "image": "/features/2.png",
+    "description": "Using your device camera, PRANALYSE tracks 33 body joints in real time and analyzes your posture during exercise. Get instant insights with advanced 3D modeling to move safely and correct alignment."
+  },
+  {
+    "id": 3,
+    "name": "Multi-Modal Workout Guidance",
+    "image": "/features/3.png",
+    "description": "Choose from a wide variety of exercises, currently yoga and physiotherapy, with multiple routines inside each. Zumba and more will be added soon, all with real-time AI guidance."
+  },
+  {
+    "id": 4,
+    "name": "Offline Access",
+    "image": "/features/4.png",
+    "description": "No internet? No problem! Keep exercising anytime, anywhere. Pranalyse provides feedback and corrections even offline, so your wellness routine never stops."
+  },
+  {
+    "id": 5,
+    "name": "Explore",
+    "image": "/features/5.png",
+    "description": "Need quick relief or advice? From instant workouts for busy professionals to diet tips, period care, and advanced wellness guidance, everything is available in one place — just explore and find what you need."
+  },
+  {
+    "id": 6,
+    "name": "Gamified Fitness Adventures",
+    "image": "/features/6.png",
+    "description": "Lack of motivation? Pranalyse makes fitness fun and engaging with challenges, streaks, and more. Turn your wellness journey into an exciting adventure you’ll love."
+  },
+  {
+    "id": 7,
+    "name": "Smart Progress, Analytics and Wellness Reports",
+    "image": "/features/7.png",
+    "description": "See your improvements clearly, understand how your body moves and functions, and access detailed, downloadable reports to track your wellness journey."
+  }
+]

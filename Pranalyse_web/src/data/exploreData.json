@@ -1,0 +1,2680 @@
+{
+  "sections": [
+    {
+      "sid": "1",
+      "title": "Blogs & Articles",
+      "items": [
+        {
+          "item_id": "1",
+          "title": "The Science Behind Good Posture and Its Mental Benefits",
+          "category": "wellness",
+          "image": "/explore/content/Blogs&Articles/BA1.png",
+          "sub_heading": "How standing tall improves body and mind",
+          "IntroPara": "Maintaining good posture is not just about looking confident; it also has profound effects on your mental well-being. Research shows that posture can influence mood, stress levels, and overall cognitive function.",
+          "content": "Good posture aligns the spine, reduces strain on muscles and ligaments, and improves blood circulation. Mentally, an upright posture can boost confidence, lower stress hormone levels, and improve focus and alertness. Simple adjustments like keeping shoulders relaxed, chin parallel to the floor, and engaging your core while sitting or standing can make a big difference over time.",
+          "problems": [
+            "Slouching leading to back and neck pain",
+            "Reduced confidence and low energy",
+            "Chronic fatigue and poor focus"
+          ],
+          "routine": false,
+          "workout_based": true,
+          "yoga": true,
+          "exercise": [
+            "Wall Angels",
+            "Chin Tucks",
+            "Shoulder Blade Squeeze",
+            "Seated Cat-Cow Stretch",
+            "Thoracic Extension on Foam Roller",
+            "Standing Chest Opener",
+            "Neck Side Stretch",
+            "Plank with Shoulder Retraction",
+            "Bridge Pose"
+          ],
+          "benefits": [
+            "Reduces back and neck strain",
+            "Improves breathing and circulation",
+            "Enhances mental clarity and focus",
+            "Boosts confidence and mood",
+            "Promotes spinal health"
+          ],
+          "suggested_videos": [
+            "https://example.com/good-posture-video"
+          ],
+          "time_required": "15-20 minutes daily",
+          "difficulty_level": "Beginner to Intermediate",
+          "equipment_needed": [
+            "Foam roller",
+            "Yoga mat"
+          ],
+          "targeted_body_area": [
+            "Spine",
+            "Shoulders",
+            "Neck",
+            "Core"
+          ],
+          "endtitle": "Stand Tall, Feel Better",
+          "endline": "Incorporate posture exercises daily to enhance both body and mind.",
+          "credentials": false,
+          "credits": "Dr. Emily Clark, Physical Therapist",
+          "tags": [
+            "posture",
+            "mental health",
+            "mobility",
+            "wellness"
+          ]
+        },
+        {
+          "item_id": "2",
+          "title": "How Movement Breaks Can Boost Productivity at Work",
+          "category": "wellness",
+          "image": "/explore/content/Blogs&Articles/BA2.png",
+          "sub_heading": "Short activity bursts to refresh your mind",
+          "IntroPara": "Sitting for hours at a desk can reduce productivity and increase fatigue. Short, regular movement breaks help your body reset, enhance focus, and improve overall workplace performance.",
+          "content": "Taking 5–10 minute movement breaks every hour can boost energy levels and prevent the negative effects of prolonged sitting. Activities like desk stretches, walking, or simple exercises increase blood flow, reduce muscle tension, and stimulate mental alertness. Incorporating movement breaks into your routine not only improves physical health but also enhances creative thinking and productivity.",
+          "problems": [
+            "Reduced concentration due to prolonged sitting",
+            "Muscle stiffness and poor posture",
+            "Increased risk of metabolic and cardiovascular issues"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": false,
+          "exercise": [
+            "Desk Shoulder Rolls",
+            "Standing Forward Bend",
+            "Seated Torso Twists",
+            "Calf Raises",
+            "Marching in Place",
+            "Wrist and Finger Stretches",
+            "Standing Side Stretch",
+            "Desk Push-Ups",
+            "Hip Flexor Stretch",
+            "Neck Rolls"
+          ],
+          "benefits": [
+            "Boosts energy and productivity",
+            "Reduces stress and mental fatigue",
+            "Improves circulation and posture",
+            "Prevents repetitive strain injuries",
+            "Enhances creativity and problem-solving"
+          ],
+          "suggested_videos": [
+            "https://example.com/movement-breaks-video"
+          ],
+          "time_required": "5–10 minutes per hour",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Chair",
+            "Desk or wall support"
+          ],
+          "targeted_body_area": [
+            "Neck",
+            "Shoulders",
+            "Back",
+            "Legs"
+          ],
+          "endtitle": "Move to Improve Focus",
+          "endline": "Even small movement breaks can refresh your mind and body during work hours.",
+          "credentials": false,
+          "credits": "Michael Lee, Workplace Wellness Coach",
+          "tags": [
+            "productivity",
+            "movement",
+            "desk exercises",
+            "workplace wellness"
+          ]
+        },
+        {
+          "item_id": "3",
+          "title": "The Connection Between Sleep Quality and Daily Mobility",
+          "category": "wellness",
+          "image": "/explore/content/Blogs&Articles/BA3.png",
+          "sub_heading": "How better sleep supports better movement",
+          "IntroPara": "Sleep and mobility are deeply connected. Poor sleep can lead to stiffness, reduced coordination, and slower recovery, while regular physical activity can enhance sleep quality and overall well-being.",
+          "content": "When we sleep poorly, our muscles and joints recover less effectively, which can lead to fatigue, stiffness, and decreased mobility during the day. Conversely, regular movement and stretching before bed can improve circulation, relax muscles, and promote deeper sleep cycles. Understanding and optimizing this relationship can greatly improve your energy levels, flexibility, and overall health.",
+          "problems": [
+            "Stiffness and soreness during the day",
+            "Decreased focus and energy",
+            "Slower recovery from physical activity"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": true,
+          "exercise": [
+            "Legs-Up-The-Wall Pose",
+            "Reclined Butterfly Stretch",
+            "Cat-Cow Stretch",
+            "Child’s Pose",
+            "Seated Forward Bend",
+            "Spinal Twist",
+            "Neck Release Stretch",
+            "Gentle Hamstring Stretch",
+            "Deep Breathing Exercises"
+          ],
+          "benefits": [
+            "Improves sleep quality",
+            "Reduces stiffness and tension",
+            "Enhances daily mobility",
+            "Promotes relaxation and stress relief",
+            "Supports better recovery from exercise"
+          ],
+          "suggested_videos": [
+            "https://example.com/sleep-mobility-video"
+          ],
+          "time_required": "10–15 minutes before bed",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Yoga mat",
+            "Pillow or bolster"
+          ],
+          "targeted_body_area": [
+            "Spine",
+            "Hips",
+            "Legs",
+            "Neck"
+          ],
+          "endtitle": "Sleep Well, Move Better",
+          "endline": "Integrating gentle stretches and movement can enhance both your sleep and your mobility.",
+          "credentials": false,
+          "credits": "Dr. Sara Thompson, Sleep & Movement Specialist",
+          "tags": [
+            "sleep",
+            "mobility",
+            "stretching",
+            "wellness"
+          ]
+          },
+          {
+          "item_id": "4",
+          "title": "Nutrition Tips to Support Joint and Muscle Health",
+          "category": "food",
+          "image": "/explore/content/Blogs&Articles/BA4.png",
+          "sub_heading": "Eat smart to move well",
+          "IntroPara": "Proper nutrition plays a vital role in maintaining joint flexibility and muscle strength. Certain nutrients help reduce inflammation and support tissue repair, keeping you active and pain-free.",
+          "content": "Incorporating a balance of protein, healthy fats, and micronutrients into your diet can improve muscle recovery and joint function. Foods rich in omega-3 fatty acids, vitamin D, calcium, and antioxidants strengthen bones, reduce inflammation, and improve overall mobility.",
+          "Recommended": [
+            "Salmon, mackerel, and sardines",
+            "Leafy greens like spinach and kale",
+            "Nuts and seeds",
+            "Low-fat dairy",
+            "Whole grains"
+          ],
+          "Deficiency": [
+            "Vitamin D deficiency may cause weak bones and joint pain",
+            "Low calcium intake can lead to muscle cramps and osteoporosis",
+            "Insufficient protein may slow muscle recovery"
+          ],
+          "Include": [
+            "Fatty fish 2–3 times per week",
+            "Fruits and vegetables rich in antioxidants",
+            "Legumes and plant-based proteins"
+          ],
+          "Avoid": [
+            "Highly processed foods",
+            "Excessive sugar and refined carbs",
+            "Trans fats"
+          ],
+          "Tips": [
+            "Stay hydrated for joint lubrication",
+            "Pair vitamin D intake with sunlight exposure",
+            "Use anti-inflammatory spices like turmeric and ginger"
+          ],
+          "Fact": "Omega-3 fatty acids can reduce joint stiffness and improve mobility in adults.",
+          "problems": [
+            "Joint inflammation",
+            "Muscle soreness",
+            "Slower recovery after workouts"
+          ],
+          "routine": false,
+          "workout_based": false,
+          "yoga": false,
+          "exercise": [],
+          "benefits": [
+            "Supports joint and bone health",
+            "Reduces inflammation",
+            "Improves muscle recovery",
+            "Enhances overall mobility"
+          ],
+          "suggested_videos": [
+            "https://example.com/joint-nutrition-video"
+          ],
+          "time_required": "Daily adherence to diet",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [],
+          "targeted_body_area": [
+            "Joints",
+            "Muscles",
+            "Bones"
+          ],
+          "endtitle": "Fuel Your Body for Flexibility",
+          "endline": "Smart nutrition choices help maintain strong muscles and healthy joints.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "nutrition",
+            "joint health",
+            "muscle recovery",
+            "wellness"
+          ]
+        },
+        {
+          "item_id": "5",
+          "title": "Mental Wellness Strategies for High-Stress Lifestyles",
+          "category": "wellness",
+          "image": "/explore/content/Blogs&Articles/BA5.png",
+          "sub_heading": "Manage stress to thrive mentally and physically",
+          "IntroPara": "High-stress lifestyles can take a toll on mental and physical health. Practicing structured mental wellness strategies can improve resilience, focus, and overall well-being.",
+          "content": "Simple strategies like mindfulness meditation, breathing exercises, journaling, and scheduled breaks during the day can drastically reduce stress levels. Combining mental wellness with light physical activity helps lower cortisol levels and improve sleep, mood, and productivity.",
+          "problems": [
+            "Chronic stress and burnout",
+            "Reduced concentration and memory",
+            "Sleep disturbances"
+          ],
+          "routine": true,
+          "workout_based": false,
+          "yoga": true,
+          "exercise": [
+            "Mindfulness meditation",
+            "Deep breathing exercises",
+            "Progressive muscle relaxation",
+            "Yoga stretches",
+            "Walking in nature",
+            "Journaling for reflection"
+          ],
+          "benefits": [
+            "Reduces stress and anxiety",
+            "Enhances focus and clarity",
+            "Improves sleep quality",
+            "Boosts mood and emotional resilience"
+          ],
+          "suggested_videos": [
+            "https://example.com/mental-wellness-video"
+          ],
+          "time_required": "10–20 minutes daily",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Yoga mat",
+            "Quiet space"
+          ],
+          "targeted_body_area": [
+            "Mind",
+            "Body relaxation",
+            "Core (for yoga postures)"
+          ],
+          "endtitle": "Stay Calm, Stay Strong",
+          "endline": "Integrating mental wellness practices can transform your high-stress lifestyle.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "mental health",
+            "stress management",
+            "mindfulness",
+            "wellness"
+          ]
+        },
+        {
+          "item_id": "6",
+          "title": "The Role of Micro-Movements in Long-Term Health",
+          "category": "wellness",
+          "image": "/images/micro-movements.jpg",
+          "sub_heading": "Small movements, big impact",
+          "IntroPara": "Micro-movements—small, repeated actions throughout the day—can significantly improve long-term health by enhancing circulation, mobility, and joint health.",
+          "content": "Incorporating micro-movements like stretching your shoulders, ankle rotations, standing up periodically, and finger mobility exercises keeps the musculoskeletal system active. Over time, these tiny movements improve posture, reduce stiffness, and prevent the negative effects of prolonged sitting or sedentary behavior.",
+          "problems": [
+            "Sedentary lifestyle",
+            "Joint stiffness",
+            "Decreased circulation"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": false,
+          "exercise": [
+            "Shoulder shrugs",
+            "Ankle circles",
+            "Neck rotations",
+            "Finger and wrist stretches",
+            "Calf raises while standing",
+            "Seated torso twists",
+            "Mini squats",
+            "Toe lifts",
+            "Standing side bends",
+            "Hip rotations"
+          ],
+          "benefits": [
+            "Improves mobility and flexibility",
+            "Reduces joint stiffness",
+            "Enhances circulation",
+            "Prevents musculoskeletal issues",
+            "Boosts energy levels during the day"
+          ],
+          "suggested_videos": [
+            "https://example.com/micro-movements-video"
+          ],
+          "time_required": "5–10 minutes spread throughout the day",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Chair",
+            "Desk or wall for support"
+          ],
+          "targeted_body_area": [
+            "Neck",
+            "Shoulders",
+            "Back",
+            "Hips",
+            "Legs"
+          ],
+          "endtitle": "Tiny Moves, Lasting Health",
+          "endline": "Even small movements repeated daily can have a powerful long-term impact.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "micro-movements",
+            "mobility",
+            "wellness",
+            "fitness"
+          ]
+        },
+        {
+          "item_id": "7",
+          "title": "Understanding Ergonomics for Home and Office Setups",
+          "category": "wellness",
+          "image": "/images/ergonomics-setup.jpg",
+          "sub_heading": "Create a workspace that protects your body",
+          "IntroPara": "Ergonomics is the science of designing your work and living environment to fit your body, minimizing strain and maximizing comfort and productivity.",
+          "content": "Proper ergonomic setup can prevent repetitive strain injuries, back pain, and fatigue. Key elements include adjusting chair height so your feet rest flat on the floor, keeping your monitor at eye level, maintaining neutral wrist positions while typing, and incorporating regular movement breaks. Small changes in posture and workspace layout can dramatically improve comfort and long-term health.",
+          "problems": [
+            "Chronic back, neck, and wrist pain",
+            "Poor posture due to improper furniture setup",
+            "Reduced focus and productivity from discomfort"
+          ],
+          "routine": true,
+          "workout_based": false,
+          "yoga": false,
+          "exercise": [
+            "Neck stretches",
+            "Shoulder shrugs",
+            "Wrist rotations",
+            "Seated spinal twists",
+            "Standing calf raises",
+            "Mini squats during breaks"
+          ],
+          "benefits": [
+            "Reduces strain and discomfort",
+            "Improves posture and spinal alignment",
+            "Boosts focus and productivity",
+            "Prevents long-term musculoskeletal issues"
+          ],
+          "suggested_videos": [
+            "https://example.com/ergonomics-video"
+          ],
+          "time_required": "10–15 minutes daily adjustments",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Adjustable chair",
+            "Desk",
+            "Monitor stand or laptop riser"
+          ],
+          "targeted_body_area": [
+            "Back",
+            "Neck",
+            "Wrists",
+            "Legs"
+          ],
+          "endtitle": "Work Smart, Move Well",
+          "endline": "Optimizing your workspace ergonomically supports comfort and long-term health.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "ergonomics",
+            "workspace wellness",
+            "posture",
+            "productivity"
+          ]
+        },
+        {
+          "item_id": "8",
+          "title": "How Consistency Beats Intensity in Building Healthy Habits",
+          "category": "wellness",
+          "image": "/images/healthy-habits.jpg",
+          "sub_heading": "Small daily actions lead to lasting results",
+          "IntroPara": "When it comes to building healthy habits, consistent effort over time is more effective than occasional intense bursts. Sustainable habits create long-term improvements in health, fitness, and wellness.",
+          "content": "Instead of pushing yourself to extremes, focus on small, achievable steps that can be repeated daily. This approach strengthens habit formation, reduces burnout, and leads to better adherence. Examples include walking 10 minutes daily instead of running an hour once a week, or adding a short stretching routine each morning. The key is repetition and gradual progress.",
+          "problems": [
+            "Burnout from extreme routines",
+            "Inconsistent results from sporadic effort",
+            "Difficulty forming long-term healthy habits"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": false,
+          "exercise": [
+            "10-minute daily walk",
+            "Morning stretching routine",
+            "Daily hydration check",
+            "Breathing exercises",
+            "Desk mobility breaks",
+            "Mini bodyweight exercises (squats, push-ups)"
+          ],
+          "benefits": [
+            "Builds sustainable healthy habits",
+            "Improves overall fitness and wellness",
+            "Reduces risk of injury and burnout",
+            "Supports mental well-being through routine"
+          ],
+          "suggested_videos": [
+            "https://example.com/consistency-habits-video"
+          ],
+          "time_required": "5–15 minutes daily",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Optional yoga mat or resistance bands"
+          ],
+          "targeted_body_area": [
+            "Whole body",
+            "Mind",
+            "Core"
+          ],
+          "endtitle": "Consistency Wins",
+          "endline": "Small, repeated actions are more powerful than occasional intense efforts.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "habits",
+            "wellness",
+            "consistency",
+            "fitness"
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "2",
+      "title": "Quick Exercises",
+      "items": [
+        {
+          "item_id": "1",
+          "title": "Desk Detox – Quick stretches to undo long hours of sitting",
+          "category": "wellness",
+          "image": "/explore/content/QuickExercises/QE1.png",
+          "sub_heading": "Refresh your body at your desk",
+          "IntroPara": "Prolonged sitting can lead to stiffness and fatigue. These quick desk stretches can refresh your muscles and improve circulation in just a few minutes.",
+          "content": "Take 5–10 minutes to perform simple stretches that target your shoulders, back, hips, and wrists. These movements reduce tension, prevent discomfort, and restore energy without leaving your workspace.",
+          "problems": [
+            "Muscle stiffness from sitting",
+            "Reduced circulation",
+            "Neck, shoulder, and back tension"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": true,
+          "exercise": [
+            "Seated Cat-Cow Stretch",
+            "Desk Shoulder Rolls",
+            "Seated Spinal Twist",
+            "Wrist and Finger Stretches",
+            "Seated Side Bend",
+            "Neck Side Stretch",
+            "Seated Hamstring Stretch"
+          ],
+          "benefits": [
+            "Reduces stiffness and tension",
+            "Improves posture",
+            "Enhances circulation",
+            "Boosts energy and focus"
+          ],
+          "suggested_videos": [
+            "https://example.com/desk-detox-video"
+          ],
+          "time_required": "5–10 minutes",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Chair",
+            "Desk or wall for support"
+          ],
+          "targeted_body_area": [
+            "Neck",
+            "Shoulders",
+            "Back",
+            "Hips",
+            "Wrists"
+          ],
+          "endtitle": "Refresh Your Desk Routine",
+          "endline": "Small desk stretches keep your body energized and mobile throughout the day.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "desk exercises",
+            "stretching",
+            "mobility",
+            "wellness"
+          ]
+        },
+        {
+          "item_id": "2",
+          "title": "Neck Relief – Gentle movements to ease neck stiffness",
+          "category": "wellness",
+          "image": "/explore/content/QuickExercises/QE2.png",
+          "sub_heading": "Release tension from long hours of screen time",
+          "IntroPara": "Neck stiffness is common for those spending long hours at a desk or looking down at devices. Gentle neck movements can relieve tension and improve mobility.",
+          "content": "Perform slow, controlled neck stretches to release tension and increase blood flow. Repeat a few times throughout the day to prevent pain and maintain range of motion.",
+          "problems": [
+            "Neck stiffness and soreness",
+            "Headaches from tension",
+            "Limited neck mobility"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": true,
+          "exercise": [
+            "Neck Side Bends",
+            "Neck Rotations",
+            "Chin Tucks",
+            "Shoulder Shrugs",
+            "Upper Trapezius Stretch",
+            "Seated Neck Release"
+          ],
+          "benefits": [
+            "Reduces neck tension and stiffness",
+            "Improves mobility",
+            "Relieves headaches caused by tight muscles",
+            "Promotes relaxation"
+          ],
+          "suggested_videos": [
+            "https://example.com/neck-relief-video"
+          ],
+          "time_required": "3–5 minutes",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Chair"
+          ],
+          "targeted_body_area": [
+            "Neck",
+            "Shoulders",
+            "Upper back"
+          ],
+          "endtitle": "Ease Neck Tension",
+          "endline": "Short neck exercises keep you comfortable and flexible throughout the day.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "neck exercises",
+            "mobility",
+            "wellness",
+            "stretching"
+          ]
+        },
+        {
+          "item_id": "3",
+          "title": "Back Reset – Loosen your spine and improve posture in minutes",
+          "category": "wellness",
+          "image": "/explore/content/QuickExercises/QE3.png",
+          "sub_heading": "Quick stretches to keep your spine healthy",
+          "IntroPara": "Tight back muscles and poor posture are common after long periods of sitting. Simple stretches can reset your spine and improve posture in just a few minutes.",
+          "content": "Perform spinal stretches and mobility exercises to relieve tension in the upper, middle, and lower back. Regular practice enhances flexibility and reduces pain associated with prolonged sitting.",
+          "problems": [
+            "Lower and upper back stiffness",
+            "Poor posture",
+            "Discomfort from prolonged sitting"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": true,
+          "exercise": [
+            "Cat-Cow Stretch",
+            "Seated Forward Fold",
+            "Spinal Twist",
+            "Bridge Pose",
+            "Child’s Pose",
+            "Standing Back Extension"
+          ],
+          "benefits": [
+            "Improves spinal mobility",
+            "Reduces back stiffness",
+            "Enhances posture",
+            "Relieves tension in back muscles"
+          ],
+          "suggested_videos": [
+            "https://example.com/back-reset-video"
+          ],
+          "time_required": "5–10 minutes",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Yoga mat or comfortable floor space"
+          ],
+          "targeted_body_area": [
+            "Spine",
+            "Back muscles",
+            "Shoulders"
+          ],
+          "endtitle": "Reset Your Back",
+          "endline": "Even a few minutes of back stretches can prevent discomfort and improve posture.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "back exercises",
+            "spine mobility",
+            "posture",
+            "wellness"
+          ]
+        },
+        {
+          "item_id": "4",
+          "title": "Hip Mobility – Release tight hips from prolonged sitting",
+          "category": "wellness",
+          "image": "/explore/content/QuickExercises/QE4.png",
+          "sub_heading": "Loosen your hips to improve movement and reduce discomfort",
+          "IntroPara": "Sitting for long hours can cause tight hips and limit mobility. Targeted hip stretches help release tension and improve flexibility for daily movement.",
+          "content": "Perform gentle hip opening exercises to improve range of motion and reduce stiffness. These stretches are especially helpful for desk workers and people with sedentary lifestyles.",
+          "problems": [
+            "Tight hip flexors",
+            "Reduced range of motion",
+            "Lower back discomfort due to hip tightness"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": true,
+          "exercise": [
+            "Seated Figure Four Stretch",
+            "Standing Hip Flexor Stretch",
+            "Butterfly Stretch",
+            "Lunge with Side Stretch",
+            "Hip Circles",
+            "Pigeon Pose"
+          ],
+          "benefits": [
+            "Improves hip flexibility",
+            "Reduces lower back strain",
+            "Enhances mobility",
+            "Prevents tightness from prolonged sitting"
+          ],
+          "suggested_videos": [
+            "https://example.com/hip-mobility-video"
+          ],
+          "time_required": "5–8 minutes",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Yoga mat or comfortable floor space"
+          ],
+          "targeted_body_area": [
+            "Hips",
+            "Lower back",
+            "Legs"
+          ],
+          "endtitle": "Free Your Hips",
+          "endline": "Regular hip mobility exercises improve movement and prevent discomfort from sitting.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "hip mobility",
+            "stretching",
+            "wellness",
+            "mobility"
+          ]
+        },
+        {
+          "item_id": "5",
+          "title": "Morning Wake-Up – Energizing moves to start your day right",
+          "category": "wellness",
+          "image": "/explore/content/QuickExercises/QE5.png",
+          "sub_heading": "Boost energy and alertness with simple morning movements",
+          "IntroPara": "Starting your day with quick, energizing movements wakes up your muscles, improves circulation, and boosts focus for the day ahead.",
+          "content": "Perform a series of gentle stretches and light exercises to stimulate blood flow and activate your muscles. This short routine helps you feel awake, reduces morning stiffness, and sets a positive tone for the day.",
+          "problems": [
+            "Morning stiffness",
+            "Low energy levels",
+            "Reduced focus at the start of the day"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": true,
+          "exercise": [
+            "Cat-Cow Stretch",
+            "Standing Side Stretch",
+            "Arm Circles",
+            "Leg Swings",
+            "Standing Forward Fold",
+            "Hip Circles"
+          ],
+          "benefits": [
+            "Reduces morning stiffness",
+            "Increases circulation and energy",
+            "Prepares the body and mind for the day",
+            "Improves flexibility"
+          ],
+          "suggested_videos": [
+            "https://example.com/morning-wakeup-video"
+          ],
+          "time_required": "5–7 minutes",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Yoga mat (optional)"
+          ],
+          "targeted_body_area": [
+            "Spine",
+            "Legs",
+            "Arms",
+            "Hips"
+          ],
+          "endtitle": "Wake Up Your Body",
+          "endline": "Start your day with gentle movements to energize your body and mind.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "morning routine",
+            "energizing exercises",
+            "stretching",
+            "wellness"
+          ]
+        },
+        {
+          "item_id": "6",
+          "title": "Eye & Shoulder Break - Reduce screen fatigue",
+          "category": "wellness",
+          "image": "/images/eye-shoulder-break.jpg",
+          "sub_heading": "Short movements to relieve screen-related strain",
+          "IntroPara": "Long hours in front of screens can lead to eye strain and shoulder tension. A few quick exercises can relax muscles and reduce fatigue.",
+          "content": "Incorporate gentle stretches and mobility exercises for your shoulders, neck, and upper back. Eye exercises reduce strain, improve focus, and prevent headaches associated with prolonged screen time.",
+          "problems": [
+            "Eye fatigue and dryness",
+            "Shoulder and neck tension",
+            "Headaches from prolonged screen use"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": true,
+          "exercise": [
+            "Neck Rotations",
+            "Shoulder Rolls",
+            "Upper Back Stretch",
+            "Seated Forward Fold",
+            "Eye Palming Exercise",
+            "Focus Shift Exercise (near/far gaze)"
+          ],
+          "benefits": [
+            "Relieves eye strain",
+            "Reduces shoulder and neck tension",
+            "Improves posture at the desk",
+            "Boosts focus and alertness"
+          ],
+          "suggested_videos": [
+            "https://example.com/eye-shoulder-break-video"
+          ],
+          "time_required": "3–5 minutes",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Chair"
+          ],
+          "targeted_body_area": [
+            "Eyes",
+            "Neck",
+            "Shoulders",
+            "Upper back"
+          ],
+          "endtitle": "Refresh Your Eyes and Shoulders",
+          "endline": "Short breaks help maintain comfort and focus during long screen sessions.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "desk exercises",
+            "screen fatigue",
+            "shoulder mobility",
+            "wellness"
+          ]
+        },
+        {
+          "item_id": "7",
+          "title": "5-Min Stretch:A full body stretch when you're short on time",
+          "category": "wellness",
+          "image": "/images/5min-stretch.jpg",
+          "sub_heading": "Quick, effective full-body routine",
+          "IntroPara": "Even with a busy schedule, a five-minute full-body stretch can relieve tension, improve mobility, and boost energy levels.",
+          "content": "This quick routine targets all major muscle groups to release stiffness and improve circulation. It's ideal for mornings, mid-day breaks, or evenings when you need a fast reset.",
+          "problems": [
+            "General stiffness",
+            "Poor circulation",
+            "Muscle tension from long hours of sitting"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": true,
+          "exercise": [
+            "Cat-Cow Stretch",
+            "Standing Side Stretch",
+            "Forward Fold",
+            "Shoulder Rolls",
+            "Hip Circles",
+            "Calf Raises",
+            "Neck Side Stretch"
+          ],
+          "benefits": [
+            "Improves flexibility",
+            "Reduces stiffness",
+            "Boosts circulation",
+            "Refreshes the body quickly"
+          ],
+          "suggested_videos": [
+            "https://example.com/5min-stretch-video"
+          ],
+          "time_required": "5 minutes",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Optional yoga mat"
+          ],
+          "targeted_body_area": [
+            "Full body",
+            "Spine",
+            "Hips",
+            "Shoulders",
+            "Legs"
+          ],
+          "endtitle": "Stretch Anytime",
+          "endline": "A quick stretch can refresh your body and mind, even on the busiest days.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "full-body stretch",
+            "quick exercises",
+            "mobility",
+            "wellness"
+          ]
+        },
+        {
+          "item_id": "8",
+          "title": "Seated Exercises for Better Circulation at Work",
+          "category": "wellness",
+          "image": "/images/seated-circulation.jpg",
+          "sub_heading": "Keep blood flowing without leaving your chair",
+          "IntroPara": "Prolonged sitting can reduce circulation and increase fatigue. Mini seated exercises stimulate blood flow and prevent stiffness during work hours.",
+          "content": "These gentle seated movements target the legs, core, and upper body to improve circulation and prevent discomfort. Perfect for mid-day energy boosts without needing to leave your desk.",
+          "problems": [
+            "Poor circulation from sitting",
+            "Leg stiffness and swelling",
+            "Fatigue during work hours"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": true,
+          "exercise": [
+            "Seated Leg Lifts",
+            "Ankle Circles",
+            "Seated Torso Twists",
+            "Shoulder Shrugs",
+            "Seated Knee Extensions",
+            "Heel Raises",
+            "Seated Side Bends"
+          ],
+          "benefits": [
+            "Improves blood circulation",
+            "Reduces stiffness and swelling",
+            "Boosts energy during the day",
+            "Enhances posture"
+          ],
+          "suggested_videos": [
+            "https://example.com/seated-circulation-video"
+          ],
+          "time_required": "5–7 minutes",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Chair"
+          ],
+          "targeted_body_area": [
+            "Legs",
+            "Core",
+            "Shoulders",
+            "Back"
+          ],
+          "endtitle": "Keep Moving at Your Desk",
+          "endline": "Mini seated exercises maintain circulation and energy during long work sessions.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "desk exercises",
+            "circulation",
+            "mobility",
+            "wellness"
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "3",
+      "title": "Posture Tips",
+      "items": [
+        {
+          "item_id": "1",
+          "title": "Correct Sitting Posture for Desk Workers",
+          "category": "wellness",
+          "image": "/explore/content/PostureTips/PT1.png",
+          "sub_heading": "Maintain proper alignment while seated",
+          "IntroPara": "Sitting for long periods can strain the back and neck. Proper posture reduces pain and enhances comfort and productivity.",
+          "content": "Keep your feet flat on the floor, knees at a 90-degree angle, and back supported by a chair with lumbar support. Shoulders should be relaxed, elbows close to the body, and your screen at eye level. Take short movement breaks every hour to prevent stiffness.",
+          "problems": [
+            "Lower back pain",
+            "Neck and shoulder tension",
+            "Fatigue and poor focus"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": false,
+          "exercise": [
+            "Seated Spinal Twist",
+            "Desk Shoulder Rolls",
+            "Neck Side Stretch",
+            "Seated Cat-Cow Stretch",
+            "Hip Flexor Stretch at Desk"
+          ],
+          "benefits": [
+            "Reduces back and neck strain",
+            "Improves posture and comfort",
+            "Enhances focus and productivity",
+            "Prevents long-term musculoskeletal issues"
+          ],
+          "suggested_videos": [
+            "https://example.com/sitting-posture-video"
+          ],
+          "time_required": "5 minutes setup + periodic adjustments",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Chair with lumbar support",
+            "Desk",
+            "Monitor at eye level"
+          ],
+          "targeted_body_area": [
+            "Spine",
+            "Back",
+            "Neck",
+            "Shoulders",
+            "Hips"
+          ],
+          "endtitle": "Sit Smart, Stay Healthy",
+          "endline": "Proper seating posture prevents discomfort and supports spinal health.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "sitting posture",
+            "desk ergonomics",
+            "spine health",
+            "wellness"
+          ]
+        },
+        {
+          "item_id": "2",
+          "title": "How to Stand Properly to Reduce Lower Back Pain",
+          "category": "wellness",
+          "image": "/explore/content/PostureTips/PT2.png",
+          "sub_heading": "Simple alignment tips for standing comfortably",
+          "IntroPara": "Poor standing posture can strain the lower back and legs. Proper alignment distributes weight evenly and reduces discomfort.",
+          "content": "Stand with feet hip-width apart, knees slightly bent, and weight evenly distributed on both feet. Engage your core, relax shoulders, and keep your head aligned with your spine. Avoid locking your knees or leaning forward for prolonged periods.",
+          "problems": [
+            "Lower back discomfort",
+            "Hip and leg fatigue",
+            "Spinal misalignment over time"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": false,
+          "exercise": [
+            "Wall Stand Alignment",
+            "Pelvic Tilts",
+            "Standing Side Stretch",
+            "Calf Raises",
+            "Core Engagement Drill"
+          ],
+          "benefits": [
+            "Reduces lower back strain",
+            "Improves balance and alignment",
+            "Enhances posture awareness",
+            "Prevents musculoskeletal pain"
+          ],
+          "suggested_videos": [
+            "https://example.com/standing-posture-video"
+          ],
+          "time_required": "2–5 minutes practice daily",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Wall (optional for alignment checks)"
+          ],
+          "targeted_body_area": [
+            "Lower back",
+            "Core",
+            "Legs",
+            "Spine"
+          ],
+          "endtitle": "Stand Tall, Reduce Pain",
+          "endline": "Proper standing posture supports your spine and reduces back discomfort.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "standing posture",
+            "spine health",
+            "wellness",
+            "alignment"
+          ]
+        },
+        {
+          "item_id": "3",
+          "title": "Setting Up Your Home Office Ergonomically",
+          "category": "wellness",
+          "image": "/explore/content/PostureTips/PT3.png",
+          "sub_heading": "Design your workspace for comfort and efficiency",
+          "IntroPara": "A home office setup that fits your body reduces strain and improves productivity. Ergonomics is key for long-term health.",
+          "content": "Use an adjustable chair with lumbar support, place your monitor at eye level, and keep your keyboard and mouse within comfortable reach. Position your desk to allow enough legroom and maintain a neutral spine. Incorporate standing breaks or a sit-stand desk if possible.",
+          "problems": [
+            "Back, neck, and shoulder pain",
+            "Fatigue from poor setup",
+            "Reduced focus and productivity"
+          ],
+          "routine": true,
+          "workout_based": false,
+          "yoga": false,
+          "exercise": [
+            "Desk Stretch Breaks",
+            "Seated Torso Twists",
+            "Shoulder Shrugs",
+            "Neck Side Stretches"
+          ],
+          "benefits": [
+            "Prevents musculoskeletal discomfort",
+            "Supports proper posture",
+            "Enhances productivity",
+            "Reduces fatigue"
+          ],
+          "suggested_videos": [
+            "https://example.com/home-office-ergonomics-video"
+          ],
+          "time_required": "10–15 minutes setup + periodic breaks",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Adjustable chair",
+            "Desk",
+            "Monitor stand or laptop riser"
+          ],
+          "targeted_body_area": [
+            "Spine",
+            "Neck",
+            "Shoulders",
+            "Hips"
+          ],
+          "endtitle": "Work Comfortably from Home",
+          "endline": "A well-set home office promotes posture, comfort, and efficiency.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "home office",
+            "ergonomics",
+            "posture",
+            "wellness"
+          ]
+        },
+        {
+          "item_id": "4",
+          "title": "Sleeping Positions that Support Spine Health",
+          "category": "wellness",
+          "image": "/explore/content/PostureTips/PT4.png",
+          "sub_heading": "Rest well while protecting your spine",
+          "IntroPara": "Your sleeping position affects spinal alignment and overall musculoskeletal health. Proper positioning reduces back and neck pain.",
+          "content": "Sleeping on your back with a pillow supporting the natural curve of your neck is ideal. Side sleepers should place a pillow between the knees to maintain hip alignment. Avoid sleeping on your stomach, which can strain the neck and spine. A supportive mattress and pillow are crucial for maintaining posture while sleeping.",
+          "problems": [
+            "Neck and back pain",
+            "Poor spinal alignment",
+            "Muscle stiffness upon waking"
+          ],
+          "routine": true,
+          "workout_based": false,
+          "yoga": false,
+          "exercise": [
+            "Back sleeping with neck support",
+            "Side sleeping with pillow between knees",
+            "Gentle spinal stretches before bed"
+          ],
+          "benefits": [
+            "Maintains spinal alignment",
+            "Reduces back and neck discomfort",
+            "Promotes restful sleep",
+            "Supports overall posture health"
+          ],
+          "suggested_videos": [
+            "https://example.com/sleeping-posture-video"
+          ],
+          "time_required": "Nightly practice",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Supportive mattress",
+            "Proper pillow"
+          ],
+          "targeted_body_area": [
+            "Spine",
+            "Neck",
+            "Hips",
+            "Back muscles"
+          ],
+          "endtitle": "Sleep Smart, Protect Your Spine",
+          "endline": "Proper sleeping positions help maintain posture and prevent discomfort.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "sleep posture",
+            "spine health",
+            "wellness",
+            "ergonomics"
+          ]
+        },
+        {
+          "item_id": "5",
+          "title": "Aligning Your Head, Neck, and Shoulders While Using Devices",
+          "category": "wellness",
+          "image": "/explore/content/PostureTips/PT5.png",
+          "sub_heading": "Reduce strain while using phones, tablets, and laptops",
+          "IntroPara": "Using devices for long periods often causes forward head posture and rounded shoulders. Proper alignment can prevent pain and stiffness.",
+          "content": "Keep devices at eye level, shoulders relaxed, and neck neutral. Avoid looking down for long periods. Incorporate periodic neck and shoulder stretches to release tension and maintain alignment.",
+          "problems": [
+            "Neck pain and stiffness",
+            "Shoulder tension",
+            "Forward head posture leading to discomfort"
+          ],
+          "routine": true,
+          "workout_based": false,
+          "yoga": false,
+          "exercise": [
+            "Chin Tucks",
+            "Shoulder Blade Squeezes",
+            "Neck Side Stretch",
+            "Upper Back Stretch"
+          ],
+          "benefits": [
+            "Reduces neck and shoulder strain",
+            "Improves posture while using devices",
+            "Prevents long-term discomfort"
+          ],
+          "suggested_videos": [
+            "https://example.com/device-posture-video"
+          ],
+          "time_required": "5 minutes per hour of device use",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Device stand (optional)"
+          ],
+          "targeted_body_area": [
+            "Neck",
+            "Shoulders",
+            "Upper back"
+          ],
+          "endtitle": "Use Devices Comfortably",
+          "endline": "Proper alignment prevents strain and supports posture while using devices.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "device posture",
+            "neck alignment",
+            "shoulders",
+            "wellness"
+          ]
+        },
+        {
+          "item_id": "6",
+          "title": "The Impact of Footwear on Posture",
+          "category": "wellness",
+          "image": "/images/footwear-posture.jpg",
+          "sub_heading": "How shoes affect your alignment and spine health",
+          "IntroPara": "Footwear influences posture, gait, and musculoskeletal health. Wearing the right shoes can prevent strain and improve overall alignment.",
+          "content": "Choose supportive shoes that provide arch support and cushioning. Avoid high heels or flat shoes that lack support for long periods. Proper footwear helps maintain proper spine alignment and reduces fatigue and joint stress.",
+          "problems": [
+            "Back and leg pain from improper shoes",
+            "Altered gait leading to posture issues",
+            "Increased fatigue and joint strain"
+          ],
+          "routine": false,
+          "workout_based": false,
+          "yoga": false,
+          "exercise": [
+            "Foot and ankle mobility exercises",
+            "Heel raises",
+            "Balance drills"
+          ],
+          "benefits": [
+            "Supports proper posture and alignment",
+            "Reduces back, knee, and foot pain",
+            "Enhances stability and balance"
+          ],
+          "suggested_videos": [
+            "https://example.com/footwear-posture-video"
+          ],
+          "time_required": "Daily awareness",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Supportive footwear"
+          ],
+          "targeted_body_area": [
+            "Feet",
+            "Ankles",
+            "Spine",
+            "Legs"
+          ],
+          "endtitle": "Step Confidently",
+          "endline": "Proper footwear supports posture, balance, and long-term spine health.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "footwear",
+            "posture",
+            "spine health",
+            "wellness"
+          ]
+        },
+        {
+          "item_id": "7",
+          "title": "Using Reminders to Maintain Posture Throughout the Day",
+          "category": "wellness",
+          "image": "/images/posture-reminders.jpg",
+          "sub_heading": "Small cues to prevent slouching and strain",
+          "IntroPara": "Maintaining good posture requires awareness. Using reminders throughout the day helps prevent slouching and encourages healthy habits.",
+          "content": "Set phone or computer reminders to check posture, stand up, or stretch every 30–60 minutes. Visual cues like sticky notes or posture apps can also prompt you to adjust your spine, shoulders, and head alignment.",
+          "problems": [
+            "Slouching during prolonged sitting",
+            "Neck and back strain",
+            "Reduced posture awareness"
+          ],
+          "routine": true,
+          "workout_based": false,
+          "yoga": false,
+          "exercise": [
+            "Shoulder Blade Squeeze",
+            "Seated or Standing Spinal Alignment",
+            "Neck Retractions",
+            "Mini Stretch Breaks"
+          ],
+          "benefits": [
+            "Promotes posture awareness",
+            "Prevents long-term musculoskeletal issues",
+            "Reduces tension and discomfort",
+            "Encourages healthy daily habits"
+          ],
+          "suggested_videos": [
+            "https://example.com/posture-reminders-video"
+          ],
+          "time_required": "5 minutes daily plus reminders",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Phone or computer reminders"
+          ],
+          "targeted_body_area": [
+            "Spine",
+            "Neck",
+            "Shoulders"
+          ],
+          "endtitle": "Stay Aligned All Day",
+          "endline": "Reminders help maintain posture and prevent discomfort during daily activities.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "posture reminders",
+            "alignment",
+            "wellness",
+            "daily habits"
+          ]
+        },
+        {
+          "item_id": "8",
+          "title": "Common Posture Mistakes and How to Fix Them",
+          "category": "wellness",
+          "image": "/images/posture-mistakes.jpg",
+          "sub_heading": "Identify and correct typical posture errors",
+          "IntroPara": "Many people unknowingly adopt postures that strain the spine and muscles. Recognizing common mistakes allows you to correct them and prevent discomfort.",
+          "content": "Avoid slouching, forward head posture, rounded shoulders, and crossing legs for long periods. Correct these by engaging your core, keeping shoulders relaxed, and maintaining neutral spine alignment. Incorporate exercises and stretches to strengthen postural muscles and maintain proper alignment.",
+          "problems": [
+            "Neck and back pain",
+            "Muscle imbalances",
+            "Chronic posture-related discomfort"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": true,
+          "exercise": [
+            "Wall Angels",
+            "Shoulder Blade Squeeze",
+            "Chin Tucks",
+            "Seated Cat-Cow Stretch",
+            "Chest Opener Stretch"
+          ],
+          "benefits": [
+            "Corrects poor posture habits",
+            "Reduces discomfort and strain",
+            "Strengthens postural muscles",
+            "Improves overall alignment"
+          ],
+          "suggested_videos": [
+            "https://example.com/posture-mistakes-video"
+          ],
+          "time_required": "10 minutes daily for corrective exercises",
+          "difficulty_level": "Beginner to Intermediate",
+          "equipment_needed": [
+            "Yoga mat (optional)",
+            "Wall space"
+          ],
+          "targeted_body_area": [
+            "Spine",
+            "Neck",
+            "Shoulders",
+            "Chest"
+          ],
+          "endtitle": "Fix Your Posture",
+          "endline": "Identify and correct posture mistakes to reduce discomfort and maintain alignment.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "posture correction",
+            "alignment",
+            "wellness",
+            "mobility"
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "4",
+      "title": "Mindfulness & Breathing",
+      "items": [
+        {
+          "item_id": "1",
+          "title": "3-Minute Mindful Breathing for Stress Relief",
+          "category": "wellness",
+          "image": "/explore/content/Mindfulness&Breathing/MB1.png",
+          "sub_heading": "Quick technique to calm your mind in minutes",
+          "IntroPara": "Even a few minutes of focused breathing can reduce stress, lower heart rate, and improve mental clarity. This quick routine is perfect for busy schedules.",
+          "content": "Sit comfortably, close your eyes, and take slow, deep breaths. Focus on the sensation of air entering and leaving your body. Inhale for a count of four, hold for four, and exhale for four. Repeat for three minutes to reset your mind and reduce tension.",
+          "problems": [
+            "Stress and anxiety",
+            "Racing thoughts",
+            "Difficulty focusing"
+          ],
+          "routine": true,
+          "workout_based": false,
+          "yoga": true,
+          "exercise": [
+            "Deep belly breathing",
+            "Counting breaths",
+            "Focused attention on inhale/exhale"
+          ],
+          "benefits": [
+            "Reduces stress and anxiety",
+            "Calms the mind",
+            "Improves focus and clarity",
+            "Promotes relaxation"
+          ],
+          "suggested_videos": [
+            "https://example.com/3min-mindful-breathing-video"
+          ],
+          "time_required": "3 minutes",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Quiet space"
+          ],
+          "targeted_body_area": [
+            "Mind",
+            "Diaphragm"
+          ],
+          "endtitle": "Breathe and Relax",
+          "endline": "Short mindful breathing sessions can reduce stress anytime, anywhere.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "mindfulness",
+            "breathing",
+            "stress relief",
+            "wellness"
+          ]
+        },
+        {
+          "item_id": "2",
+          "title": "Box Breathing Technique for Focus and Calm",
+          "category": "wellness",
+          "image": "/explore/content/Mindfulness&Breathing/MB2.png",
+          "sub_heading": "Structured breathing to improve concentration and reduce anxiety",
+          "IntroPara": "Box breathing helps regulate the nervous system, improves focus, and reduces stress. It's widely used by professionals in high-pressure environments.",
+          "content": "Inhale deeply for 4 counts, hold for 4 counts, exhale for 4 counts, and hold again for 4 counts. Repeat this cycle for 5 minutes, focusing on smooth, controlled breaths. This technique balances mind and body and increases mental clarity.",
+          "problems": [
+            "Difficulty focusing",
+            "High stress or anxiety levels",
+            "Feeling overwhelmed"
+          ],
+          "routine": true,
+          "workout_based": false,
+          "yoga": true,
+          "exercise": [
+            "Inhale-hold-exhale-hold cycles",
+            "Mindful awareness of breath",
+            "Counting to maintain rhythm"
+          ],
+          "benefits": [
+            "Enhances focus and attention",
+            "Calms the mind",
+            "Reduces stress and anxiety",
+            "Improves emotional regulation"
+          ],
+          "suggested_videos": [
+            "https://example.com/box-breathing-video"
+          ],
+          "time_required": "5 minutes",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Quiet space"
+          ],
+          "targeted_body_area": [
+            "Mind",
+            "Lungs"
+          ],
+          "endtitle": "Calm Your Mind with Structure",
+          "endline": "Box breathing provides mental clarity and relaxation anytime you need it.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "box breathing",
+            "mindfulness",
+            "focus",
+            "wellness"
+          ]
+        },
+        {
+          "item_id": "3",
+          "title": "Body Scan Meditation to Release Tension",
+          "category": "wellness",
+          "image": "/explore/content/Mindfulness&Breathing/MB3.png",
+          "sub_heading": "Connect with your body to ease stress and tension",
+          "IntroPara": "A body scan meditation helps you identify areas of tension and release stress from head to toe. It promotes relaxation and improves mind-body awareness.",
+          "content": "Lie down or sit comfortably. Close your eyes and bring attention to each body part, starting from the toes up to the head. Notice sensations without judgment. Breathe into areas of tension and consciously relax them. Practice for 10–15 minutes for full effect.",
+          "problems": [
+            "Muscle tension",
+            "Stress and mental fatigue",
+            "Poor body awareness"
+          ],
+          "routine": true,
+          "workout_based": false,
+          "yoga": true,
+          "exercise": [
+            "Progressive attention from toes to head",
+            "Deep breathing for tension release",
+            "Mindful relaxation of each body part"
+          ],
+          "benefits": [
+            "Releases physical tension",
+            "Enhances mind-body awareness",
+            "Promotes relaxation",
+            "Reduces stress and anxiety"
+          ],
+          "suggested_videos": [
+            "https://example.com/body-scan-video"
+          ],
+          "time_required": "10–15 minutes",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Yoga mat or comfortable surface"
+          ],
+          "targeted_body_area": [
+            "Full body",
+            "Mind"
+          ],
+          "endtitle": "Relax from Head to Toe",
+          "endline": "Body scan meditation helps release tension and restores calm.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "body scan",
+            "meditation",
+            "mindfulness",
+            "relaxation"
+          ]
+        },
+        {
+          "item_id": "4",
+          "title": "Breathing Exercises Before Sleep for Better Rest",
+          "category": "wellness",
+          "image": "/explore/content/Mindfulness&Breathing/MB4.png",
+          "sub_heading": "Prepare your body and mind for restorative sleep",
+          "IntroPara": "Proper breathing before bed helps you relax, slow your heart rate, and improve sleep quality. This routine is ideal for nightly wind-down.",
+          "content": "Sit or lie down comfortably. Inhale deeply through your nose for 4 counts, exhale slowly for 6 counts. Focus on long, gentle breaths. Incorporate progressive muscle relaxation if needed. Practice for 5–10 minutes before sleep to calm the nervous system.",
+          "problems": [
+            "Difficulty falling asleep",
+            "Restless or shallow sleep",
+            "Nighttime stress or racing thoughts"
+          ],
+          "routine": true,
+          "workout_based": false,
+          "yoga": true,
+          "exercise": [
+            "Deep diaphragmatic breathing",
+            "Slow exhalation focus",
+            "Progressive muscle relaxation (optional)"
+          ],
+          "benefits": [
+            "Improves sleep quality",
+            "Reduces stress and anxiety",
+            "Promotes relaxation before bed",
+            "Supports recovery and well-being"
+          ],
+          "suggested_videos": [
+            "https://example.com/sleep-breathing-video"
+          ],
+          "time_required": "5–10 minutes before sleep",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Comfortable surface or bed"
+          ],
+          "targeted_body_area": [
+            "Mind",
+            "Lungs",
+            "Full body"
+          ],
+          "endtitle": "Breathe Your Way to Rest",
+          "endline": "Nightly breathing exercises improve relaxation and sleep quality.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "sleep",
+            "breathing",
+            "mindfulness",
+            "relaxation"
+          ]
+        },
+        {
+          "item_id": "5",
+          "title": "Mindfulness Tips for Walking or Commuting",
+          "category": "wellness",
+          "image": "/explore/content/Mindfulness&Breathing/MB5.png",
+          "sub_heading": "Turn everyday movement into a mindful practice",
+          "IntroPara": "Even routine activities like walking or commuting can be opportunities for mindfulness, reducing stress and enhancing awareness.",
+          "content": "Focus on your breath, the sensation of your feet touching the ground, and the rhythm of your movement. Observe your surroundings without judgment. Small mindful pauses during your commute or walks can improve mood, reduce anxiety, and increase presence.",
+          "problems": [
+            "Stress from commuting",
+            "Mindless or distracted movement",
+            "Feeling rushed or anxious during walks"
+          ],
+          "routine": true,
+          "workout_based": false,
+          "yoga": true,
+          "exercise": [
+            "Focus on breath while walking",
+            "Notice footfall and body movement",
+            "Observe surroundings mindfully"
+          ],
+          "benefits": [
+            "Reduces stress and anxiety",
+            "Increases mindfulness and presence",
+            "Enhances enjoyment of daily movement",
+            "Improves mental clarity"
+          ],
+          "suggested_videos": [
+            "https://example.com/mindful-walking-video"
+          ],
+          "time_required": "5–15 minutes during walk or commute",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Comfortable shoes"
+          ],
+          "targeted_body_area": [
+            "Mind",
+            "Legs",
+            "Full body"
+          ],
+          "endtitle": "Walk Mindfully",
+          "endline": "Transform walking or commuting into a relaxing, mindful practice.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "mindful walking",
+            "commute",
+            "stress relief",
+            "wellness"
+          ]
+        },
+        {
+          "item_id": "6",
+          "title": "Progressive Muscle Relaxation for Office Workers",
+          "category": "wellness",
+          "image": "/images/progressive-muscle-relaxation.jpg",
+          "sub_heading": "Relieve tension after long periods of sitting",
+          "IntroPara": "Office work often causes tight muscles and tension. Progressive muscle relaxation helps release built-up stress and promotes relaxation.",
+          "content": "Starting from your toes and moving up to your head, tense each muscle group for 5 seconds, then release. Focus on the sensation of relaxation after each release. This practice reduces muscle tension, alleviates stress, and enhances awareness of body sensations.",
+          "problems": [
+            "Muscle stiffness from prolonged sitting",
+            "Stress and fatigue",
+            "Reduced body awareness"
+          ],
+          "routine": true,
+          "workout_based": false,
+          "yoga": true,
+          "exercise": [
+            "Tense and release toes and feet",
+            "Leg muscles tensing/releasing",
+            "Core and back tension/release",
+            "Shoulder and neck tension/release"
+          ],
+          "benefits": [
+            "Reduces physical tension",
+            "Improves body awareness",
+            "Relieves stress and fatigue",
+            "Enhances mental focus"
+          ],
+          "suggested_videos": [
+            "https://example.com/progressive-muscle-relaxation-video"
+          ],
+          "time_required": "10–15 minutes",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Chair or floor space"
+          ],
+          "targeted_body_area": [
+            "Full body",
+            "Neck",
+            "Shoulders",
+            "Back"
+          ],
+          "endtitle": "Relax and Recharge",
+          "endline": "Progressive muscle relaxation restores calm and reduces tension during office hours.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "muscle relaxation",
+            "office wellness",
+            "stress relief",
+            "mindfulness"
+          ]
+        },
+        {
+          "item_id": "7",
+          "title": "Guided Visualization for Energy and Motivation",
+          "category": "wellness",
+          "image": "/images/guided-visualization.jpg",
+          "sub_heading": "Mental imagery to boost energy and focus",
+          "IntroPara": "Guided visualization uses mental imagery to enhance motivation, increase energy, and foster positive thinking patterns.",
+          "content": "Close your eyes and visualize completing your goals or feeling energized and confident. Imagine sensory details, like sights, sounds, and feelings. Practice for 5–10 minutes to increase motivation, focus, and mental clarity.",
+          "problems": [
+            "Low energy or motivation",
+            "Difficulty focusing",
+            "Negative thinking patterns"
+          ],
+          "routine": true,
+          "workout_based": false,
+          "yoga": true,
+          "exercise": [
+            "Close eyes and breathe deeply",
+            "Visualize positive outcomes",
+            "Engage all senses in mental imagery"
+          ],
+          "benefits": [
+            "Boosts energy and motivation",
+            "Enhances mental clarity",
+            "Reduces stress and negative thinking",
+            "Improves goal focus and mindset"
+          ],
+          "suggested_videos": [
+            "https://example.com/guided-visualization-video"
+          ],
+          "time_required": "5–10 minutes",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Quiet space"
+          ],
+          "targeted_body_area": [
+            "Mind"
+          ],
+          "endtitle": "Visualize Success",
+          "endline": "Guided visualization strengthens focus, motivation, and energy.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "visualization",
+            "motivation",
+            "mindfulness",
+            "energy"
+          ]
+        },
+        {
+          "item_id": "8",
+          "title": "Combining Movement with Mindfulness for Body Awareness",
+          "category": "wellness",
+          "image": "/images/movement-mindfulness.jpg",
+          "sub_heading": "Enhance awareness while moving for overall wellness",
+          "IntroPara": "Mindful movement improves body awareness, reduces tension, and enhances coordination. Simple exercises with focus on breath and sensation create a deeper connection to your body.",
+          "content": "Perform gentle movements like stretching, slow walking, or yoga poses while paying attention to muscle engagement, breath, and sensations. Observe how your body responds, adjusting posture and alignment as needed. Practicing mindful movement for 5–15 minutes daily enhances mobility and mental clarity.",
+          "problems": [
+            "Low body awareness",
+            "Muscle tension or imbalance",
+            "Mindless movement or repetitive strain"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": true,
+          "exercise": [
+            "Slow walking with breath focus",
+            "Gentle stretching with mindful awareness",
+            "Simple yoga flows",
+            "Body scan during movement"
+          ],
+          "benefits": [
+            "Improves body awareness and posture",
+            "Reduces tension and stress",
+            "Enhances coordination and mobility",
+            "Supports mind-body connection"
+          ],
+          "suggested_videos": [
+            "https://example.com/mindful-movement-video"
+          ],
+          "time_required": "5–15 minutes",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Comfortable clothing",
+            "Yoga mat or open space (optional)"
+          ],
+          "targeted_body_area": [
+            "Full body",
+            "Mind",
+            "Spine",
+            "Limbs"
+          ],
+          "endtitle": "Move Mindfully",
+          "endline": "Combining movement with mindfulness boosts awareness, mobility, and mental clarity.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "mindful movement",
+            "body awareness",
+            "wellness",
+            "stress relief"
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "5",
+      "title": "Recovery Guides",
+      "items": [
+        {
+          "item_id": "1",
+          "title": "Foam Rolling Routine for Back and Legs",
+          "category": "wellness",
+          "image": "/explore/content/RecoveryGuides/RG1.png",
+          "sub_heading": "Release muscle tension and improve circulation",
+          "IntroPara": "Foam rolling helps relax tight muscles, increase blood flow, and accelerate recovery after workouts or long periods of sitting.",
+          "content": "Use a foam roller on your upper back, lower back, calves, and hamstrings. Roll slowly over each area for 30–60 seconds, pausing on tight spots. Focus on breathing deeply to enhance relaxation and effectiveness. This routine helps reduce soreness and promotes mobility.",
+          "problems": [
+            "Muscle stiffness",
+            "Reduced circulation",
+            "Post-workout soreness"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": false,
+          "exercise": [
+            "Upper back foam rolling",
+            "Lower back release",
+            "Hamstring roll",
+            "Calf massage with roller",
+            "Glute release"
+          ],
+          "benefits": [
+            "Reduces muscle tension",
+            "Improves flexibility and circulation",
+            "Speeds up recovery",
+            "Enhances mobility"
+          ],
+          "suggested_videos": [
+            "https://example.com/foam-rolling-video"
+          ],
+          "time_required": "10–15 minutes",
+          "difficulty_level": "Beginner to Intermediate",
+          "equipment_needed": [
+            "Foam roller"
+          ],
+          "targeted_body_area": [
+            "Back",
+            "Legs",
+            "Glutes"
+          ],
+          "endtitle": "Roll to Recover",
+          "endline": "Foam rolling is a simple yet effective way to relax muscles and enhance recovery.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "foam rolling",
+            "recovery",
+            "mobility",
+            "wellness"
+          ]
+        },
+        {
+          "item_id": "2",
+          "title": "Stretching Exercises to Reduce Neck Stiffness",
+          "category": "wellness",
+          "image": "/explore/content/RecoveryGuides/RG2.png",
+          "sub_heading": "Relieve tension in your neck and shoulders",
+          "IntroPara": "Neck stiffness is common due to long hours at desks or looking at screens. Targeted stretches can release tight muscles and improve comfort.",
+          "content": "Perform gentle neck stretches such as side bends, rotations, and chin tucks. Hold each stretch for 20–30 seconds and breathe deeply. Combine with shoulder rolls and upper back stretches to fully release tension.",
+          "problems": [
+            "Neck and shoulder pain",
+            "Muscle stiffness from poor posture",
+            "Reduced mobility and comfort"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": true,
+          "exercise": [
+            "Neck side stretches",
+            "Chin tucks",
+            "Shoulder rolls",
+            "Upper back stretch",
+            "Neck rotations"
+          ],
+          "benefits": [
+            "Reduces neck and shoulder tension",
+            "Improves flexibility and range of motion",
+            "Enhances posture and comfort",
+            "Prevents stiffness from prolonged sitting"
+          ],
+          "suggested_videos": [
+            "https://example.com/neck-stretching-video"
+          ],
+          "time_required": "5–10 minutes",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Chair or mat"
+          ],
+          "targeted_body_area": [
+            "Neck",
+            "Shoulders",
+            "Upper back"
+          ],
+          "endtitle": "Ease Neck Tension",
+          "endline": "Simple stretches throughout the day reduce neck stiffness and improve posture.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "neck stretch",
+            "mobility",
+            "recovery",
+            "wellness"
+          ]
+        },
+        {
+          "item_id": "3",
+          "title": "Post-Workout Mobility Drills for Hips and Shoulders",
+          "category": "wellness",
+          "image": "/explore/content/RecoveryGuides/RG3.png",
+          "sub_heading": "Maintain flexibility and prevent stiffness after training",
+          "IntroPara": "After workouts, mobility drills help maintain joint health, reduce soreness, and support functional movement.",
+          "content": "Perform dynamic stretches for hips and shoulders, such as hip circles, leg swings, shoulder openers, and arm circles. Focus on smooth, controlled movements while breathing steadily. This routine prevents tightness, enhances range of motion, and accelerates recovery.",
+          "problems": [
+            "Joint stiffness",
+            "Muscle tightness post-exercise",
+            "Reduced functional mobility"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": false,
+          "exercise": [
+            "Hip circles",
+            "Leg swings",
+            "Shoulder openers",
+            "Arm circles",
+            "Thoracic rotations"
+          ],
+          "benefits": [
+            "Maintains joint flexibility",
+            "Reduces post-workout stiffness",
+            "Improves range of motion",
+            "Supports overall mobility"
+          ],
+          "suggested_videos": [
+            "https://example.com/mobility-drills-video"
+          ],
+          "time_required": "10 minutes",
+          "difficulty_level": "Beginner to Intermediate",
+          "equipment_needed": [
+            "Mat or open space"
+          ],
+          "targeted_body_area": [
+            "Hips",
+            "Shoulders",
+            "Legs",
+            "Upper back"
+          ],
+          "endtitle": "Recover with Mobility",
+          "endline": "Mobility drills keep your joints healthy and muscles flexible after workouts.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "mobility",
+            "post-workout recovery",
+            "wellness",
+            "flexibility"
+          ]
+        },
+        {
+          "item_id": "4",
+          "title": "Restorative Yoga Poses for Recovery Days",
+          "category": "wellness",
+          "image": "/explore/content/RecoveryGuides/RG4.png",
+          "sub_heading": "Gentle yoga to relax muscles and restore energy",
+          "IntroPara": "Restorative yoga uses supportive poses to release tension, improve circulation, and promote recovery without strain.",
+          "content": "Use props like pillows or blankets to support your body in poses such as Child's Pose, Supported Bridge, Reclined Butterfly, and Legs-Up-The-Wall. Focus on deep breathing and holding poses for several minutes to allow muscles to relax fully.",
+          "problems": [
+            "Muscle fatigue",
+            "Stress and tension",
+            "Slow recovery from exercise"
+          ],
+          "routine": true,
+          "workout_based": false,
+          "yoga": true,
+          "exercise": [
+            "Child's Pose",
+            "Supported Bridge Pose",
+            "Reclined Butterfly Stretch",
+            "Legs-Up-The-Wall Pose",
+            "Deep breathing in poses"
+          ],
+          "benefits": [
+            "Promotes relaxation and stress relief",
+            "Improves circulation and flexibility",
+            "Speeds up recovery",
+            "Enhances overall wellness"
+          ],
+          "suggested_videos": [
+            "https://example.com/restorative-yoga-video"
+          ],
+          "time_required": "15–20 minutes",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Yoga mat",
+            "Pillows or blankets for support"
+          ],
+          "targeted_body_area": [
+            "Full body",
+            "Back",
+            "Hips",
+            "Legs"
+          ],
+          "endtitle": "Recover and Restore",
+          "endline": "Gentle restorative yoga supports recovery and rejuvenates the body.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "restorative yoga",
+            "recovery",
+            "stress relief",
+            "wellness"
+          ]
+        },
+        {
+          "item_id": "5",
+          "title": "Tips for Preventing Delayed Onset Muscle Soreness",
+          "category": "wellness",
+          "image": "/explore/content/RecoveryGuides/RG5.png",
+          "sub_heading": "Reduce soreness after intense workouts",
+          "IntroPara": "DOMS occurs after unfamiliar or intense exercise. Implementing proper warm-ups, cooldowns, and gradual progression can help prevent soreness.",
+          "content": "Perform dynamic warm-ups before workouts and cool-down stretches afterward. Gradually increase intensity and volume. Stay hydrated and maintain balanced nutrition. Incorporating foam rolling and gentle mobility exercises post-workout also reduces DOMS.",
+          "problems": [
+            "Muscle soreness after exercise",
+            "Reduced performance in following days",
+            "Discomfort limiting movement"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": false,
+          "exercise": [
+            "Dynamic warm-up exercises",
+            "Post-workout stretching",
+            "Foam rolling major muscle groups",
+            "Gradual load progression",
+            "Hydration and nutrition focus"
+          ],
+          "benefits": [
+            "Reduces muscle soreness",
+            "Improves recovery time",
+            "Supports consistent training",
+            "Enhances mobility and flexibility"
+          ],
+          "suggested_videos": [
+            "https://example.com/doms-prevention-video"
+          ],
+          "time_required": "10–15 minutes pre- and post-workout",
+          "difficulty_level": "Beginner to Intermediate",
+          "equipment_needed": [
+            "Foam roller (optional)",
+            "Mat or open space"
+          ],
+          "targeted_body_area": [
+            "Full body",
+            "Muscles targeted during exercise"
+          ],
+          "endtitle": "Stay Sore-Free",
+          "endline": "Prevent DOMS with warm-ups, cooldowns, and mindful progression in workouts.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "DOMS",
+            "recovery",
+            "post-workout",
+            "wellness"
+          ]
+        },
+        {
+          "item_id": "6",
+          "title": "Recovery Strategies After Long Sitting Sessions",
+          "category": "wellness",
+          "image": "/images/recovery-sitting.jpg",
+          "sub_heading": "Combat stiffness and tension from prolonged sitting",
+          "IntroPara": "Long periods of sitting can lead to tight hips, stiff spine, and reduced circulation. Simple recovery strategies help restore mobility and comfort.",
+          "content": "Incorporate standing breaks, gentle stretching, and short walks throughout the day. Perform hip flexor stretches, spinal twists, and shoulder rolls after sitting. Foam rolling or self-massage of tight areas can further reduce tension and improve circulation.",
+          "problems": [
+            "Tight hips and lower back",
+            "Reduced circulation",
+            "Muscle stiffness and discomfort"
+          ],
+          "routine": true,
+          "workout_based": false,
+          "yoga": true,
+          "exercise": [
+            "Hip flexor stretch",
+            "Seated spinal twists",
+            "Shoulder rolls",
+            "Calf raises and ankle mobility",
+            "Short walks or standing breaks"
+          ],
+          "benefits": [
+            "Reduces stiffness from prolonged sitting",
+            "Improves circulation and posture",
+            "Enhances mobility and comfort",
+            "Prevents musculoskeletal issues"
+          ],
+          "suggested_videos": [
+            "https://example.com/recovery-sitting-video"
+          ],
+          "time_required": "5–10 minutes after long sitting periods",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Chair or mat",
+            "Open space for walking (optional)"
+          ],
+          "targeted_body_area": [
+            "Hips",
+            "Lower back",
+            "Shoulders",
+            "Legs"
+          ],
+          "endtitle": "Sit Less, Move More",
+          "endline": "Regular recovery breaks prevent stiffness and restore comfort after sitting.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "sitting recovery",
+            "mobility",
+            "wellness",
+            "stretching"
+          ]
+        },
+        {
+          "item_id": "7",
+          "title": "Self-Massage Techniques Using Household Items",
+          "category": "wellness",
+          "image": "/images/self-massage.jpg",
+          "sub_heading": "Ease muscle tension without professional tools",
+          "IntroPara": "You don’t need expensive equipment to relieve tight muscles. Everyday household items can serve as effective tools for self-massage and tension release.",
+          "content": "Use items like tennis balls, rolling pins, or water bottles to massage sore areas. Roll slowly over tight muscles in the back, calves, glutes, or shoulders. Combine with deep breathing to relax tissues and improve circulation.",
+          "problems": [
+            "Muscle knots or tension",
+            "Limited access to professional massage",
+            "Discomfort from prolonged activity or exercise"
+          ],
+          "routine": true,
+          "workout_based": false,
+          "yoga": false,
+          "exercise": [
+            "Back massage with tennis ball",
+            "Calf rolling using water bottle",
+            "Glute pressure release",
+            "Shoulder blade massage",
+            "Neck tension release"
+          ],
+          "benefits": [
+            "Relieves muscle tension and knots",
+            "Improves circulation",
+            "Supports recovery from exercise",
+            "Reduces discomfort from daily activity"
+          ],
+          "suggested_videos": [
+            "https://example.com/self-massage-video"
+          ],
+          "time_required": "5–15 minutes",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Household items: tennis ball, rolling pin, water bottle"
+          ],
+          "targeted_body_area": [
+            "Back",
+            "Shoulders",
+            "Legs",
+            "Glutes"
+          ],
+          "endtitle": "DIY Muscle Relief",
+          "endline": "Household items can effectively ease muscle tension and support recovery.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "self-massage",
+            "recovery",
+            "mobility",
+            "wellness"
+          ]
+        },
+        {
+          "item_id": "8",
+          "title": "Recovery Nutrition Tips for Better Muscle Repair",
+          "category": "food",
+          "image": "/images/recovery-nutrition.jpg",
+          "sub_heading": "Fuel your body for faster recovery",
+          "IntroPara": "Nutrition plays a key role in repairing muscles and reducing soreness after exercise. Choosing the right foods supports recovery and overall wellness.",
+          "content": "Include protein-rich foods, antioxidants, and healthy fats in post-workout meals. Hydrate adequately and consume complex carbohydrates for glycogen replenishment. Avoid excessive sugar and processed foods that can impair recovery.",
+          "Recommended": [
+            "Lean meats, eggs, tofu, and legumes",
+            "Fruits and vegetables rich in antioxidants",
+            "Whole grains and healthy fats (nuts, olive oil)"
+          ],
+          "Deficiency": [
+            "Protein deficiency slows muscle repair",
+            "Lack of antioxidants increases inflammation",
+            "Insufficient carbs reduce energy recovery"
+          ],
+          "Include": [
+            "Smoothies with protein and fruits",
+            "Balanced meals post-exercise",
+            "Hydration with water or electrolyte drinks"
+          ],
+          "Avoid": [
+            "Highly processed foods",
+            "Sugary snacks and drinks",
+            "Excessive alcohol"
+          ],
+          "Tips": [
+            "Consume protein within 30–60 minutes after exercise",
+            "Pair carbs with protein for optimal recovery",
+            "Stay hydrated throughout the day"
+          ],
+          "Fact": "Muscle repair and recovery are enhanced by adequate protein intake and nutrient-rich foods.",
+          "problems": [
+            "Slow muscle recovery",
+            "Increased soreness",
+            "Reduced performance in subsequent workouts"
+          ],
+          "routine": true,
+          "workout_based": false,
+          "yoga": false,
+          "exercise": [],
+          "benefits": [
+            "Speeds up muscle recovery",
+            "Reduces inflammation and soreness",
+            "Supports consistent performance",
+            "Promotes overall wellness"
+          ],
+          "suggested_videos": [
+            "https://example.com/recovery-nutrition-video"
+          ],
+          "time_required": "Daily",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Kitchen or meal prep space"
+          ],
+          "targeted_body_area": [
+            "Muscles",
+            "Full body"
+          ],
+          "endtitle": "Eat to Recover",
+          "endline": "Proper nutrition enhances muscle repair, reduces soreness, and supports performance.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "recovery",
+            "nutrition",
+            "muscle repair",
+            "wellness"
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "6",
+      "title": "Wellness Challenges",
+      "items": [
+        {
+          "item_id": "1",
+          "title": "7-Day Desk Stretch Challenge",
+          "category": "wellness",
+          "image": "/explore/content/WellnessChallenges/WC1.png",
+          "sub_heading": "Stretch and move daily at your desk",
+          "IntroPara": "A week-long challenge to incorporate simple stretches into your workday to reduce stiffness and improve posture.",
+          "content": "Each day, perform a set of stretches targeting your neck, shoulders, back, and legs. Commit to 5–10 minutes daily, gradually improving flexibility and reducing tension from prolonged sitting.",
+          "problems": [
+            "Stiffness from prolonged sitting",
+            "Poor posture",
+            "Muscle tension in neck, back, and shoulders"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": true,
+          "exercise": [
+            "Neck side stretches",
+            "Shoulder rolls",
+            "Seated spinal twists",
+            "Calf raises",
+            "Standing side stretch",
+            "Chest opener",
+            "Hip flexor stretch"
+          ],
+          "benefits": [
+            "Improves flexibility and posture",
+            "Reduces tension and stiffness",
+            "Enhances circulation",
+            "Builds daily movement habit"
+          ],
+          "suggested_videos": [
+            "https://example.com/desk-stretch-challenge-video"
+          ],
+          "time_required": "5–10 minutes daily",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Chair or desk",
+            "Yoga mat (optional)"
+          ],
+          "targeted_body_area": [
+            "Neck",
+            "Shoulders",
+            "Back",
+            "Legs"
+          ],
+          "endtitle": "Stretch Daily, Feel Better",
+          "endline": "7 days of desk stretches can improve comfort and posture significantly.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "desk stretch",
+            "wellness challenge",
+            "mobility",
+            "posture"
+          ]
+        },
+        {
+          "item_id": "2",
+          "title": "Daily Posture Check Challenge",
+          "category": "wellness",
+          "image": "/explore/content/WellnessChallenges/WC2.png",
+          "sub_heading": "Build awareness and correct posture daily",
+          "IntroPara": "A simple daily routine to check and correct your posture throughout the day, improving spine health and body awareness.",
+          "content": "Set reminders to evaluate your posture multiple times per day. Stand tall, shoulders relaxed, chin parallel to the floor, and core engaged. Small daily corrections build awareness and prevent poor posture habits.",
+          "problems": [
+            "Slouching or forward head posture",
+            "Back and neck discomfort",
+            "Reduced body awareness"
+          ],
+          "routine": true,
+          "workout_based": false,
+          "yoga": true,
+          "exercise": [
+            "Posture alignment check",
+            "Shoulder blade squeeze",
+            "Chin tuck exercise",
+            "Core engagement practice",
+            "Standing tall for 1–2 minutes"
+          ],
+          "benefits": [
+            "Enhances posture and spinal health",
+            "Reduces back and neck pain",
+            "Increases body awareness",
+            "Builds healthy daily habits"
+          ],
+          "suggested_videos": [
+            "https://example.com/daily-posture-check-video"
+          ],
+          "time_required": "2–5 minutes daily",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Chair or standing space"
+          ],
+          "targeted_body_area": [
+            "Spine",
+            "Shoulders",
+            "Neck",
+            "Core"
+          ],
+          "endtitle": "Check Posture Daily",
+          "endline": "Daily posture awareness improves alignment and reduces discomfort over time.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "posture challenge",
+            "daily habit",
+            "wellness",
+            "spinal health"
+          ]
+        },
+        {
+          "item_id": "3",
+          "title": "Morning Mobility Routine for a Week",
+          "category": "wellness",
+          "image": "/explore/content/WellnessChallenges/WC3.png",
+          "sub_heading": "Wake up your body with daily movement",
+          "IntroPara": "A 7-day morning routine designed to improve flexibility, mobility, and circulation to start your day energized.",
+          "content": "Perform gentle stretches and mobility exercises targeting the spine, hips, shoulders, and legs. Focus on slow movements and deep breathing to awaken your body and enhance daily performance.",
+          "problems": [
+            "Morning stiffness",
+            "Low energy levels",
+            "Reduced flexibility and mobility"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": true,
+          "exercise": [
+            "Cat-Cow stretch",
+            "Hip openers",
+            "Arm circles",
+            "Spinal twists",
+            "Standing side stretches",
+            "Calf raises",
+            "Neck rotations"
+          ],
+          "benefits": [
+            "Increases flexibility and mobility",
+            "Boosts energy and alertness",
+            "Reduces stiffness and tension",
+            "Establishes a morning wellness habit"
+          ],
+          "suggested_videos": [
+            "https://example.com/morning-mobility-video"
+          ],
+          "time_required": "10–15 minutes daily",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Yoga mat or open space"
+          ],
+          "targeted_body_area": [
+            "Spine",
+            "Hips",
+            "Shoulders",
+            "Legs"
+          ],
+          "endtitle": "Move to Start Your Day",
+          "endline": "Daily morning mobility improves flexibility, energy, and overall wellness.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "morning mobility",
+            "wellness challenge",
+            "stretching",
+            "daily habit"
+          ]
+        },
+        {
+          "item_id": "4",
+          "title": "5-Minute Mindfulness Challenge Every Day",
+          "category": "wellness",
+          "image": "/explore/content/WellnessChallenges/WC4.png",
+          "sub_heading": "Daily practice to reduce stress and improve focus",
+          "IntroPara": "A simple 5-minute daily mindfulness challenge to cultivate calm, clarity, and mental resilience.",
+          "content": "Dedicate 5 minutes each day to mindful breathing, body scan, or guided meditation. Focus on awareness of breath, posture, and sensations. Consistent daily practice reduces stress, increases focus, and enhances overall well-being.",
+          "problems": [
+            "Stress and anxiety",
+            "Difficulty focusing",
+            "Mental fatigue"
+          ],
+          "routine": true,
+          "workout_based": false,
+          "yoga": true,
+          "exercise": [
+            "Deep breathing exercises",
+            "Body scan meditation",
+            "Mindful awareness practice",
+            "Short guided meditation"
+          ],
+          "benefits": [
+            "Reduces stress and anxiety",
+            "Enhances focus and mental clarity",
+            "Improves emotional resilience",
+            "Promotes mindfulness habit"
+          ],
+          "suggested_videos": [
+            "https://example.com/5min-mindfulness-challenge-video"
+          ],
+          "time_required": "5 minutes daily",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Quiet space"
+          ],
+          "targeted_body_area": [
+            "Mind"
+          ],
+          "endtitle": "Practice Mindfulness Daily",
+          "endline": "A 5-minute daily mindfulness routine can greatly improve mental well-being.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "mindfulness challenge",
+            "stress relief",
+            "daily habit",
+            "wellness"
+          ]
+        },
+
+        {
+          "item_id": "5",
+          "title": "Daily Water and Movement Combo Challenge",
+          "category": "wellness",
+          "image": "/explore/content/WellnessChallenges/WC5.png",
+          "sub_heading": "Stay hydrated and active every day",
+          "IntroPara": "Combine hydration with light movement to boost energy, circulation, and overall wellness throughout the day.",
+          "content": "Drink at least 6–8 glasses of water daily while taking short movement breaks every hour. Include stretches, short walks, and mini-exercises to keep muscles active and joints lubricated.",
+          "problems": [
+            "Dehydration",
+            "Reduced circulation",
+            "Muscle stiffness from inactivity"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": true,
+          "exercise": [
+            "Desk stretches",
+            "Standing side bends",
+            "Calf raises",
+            "Short walks",
+            "Shoulder rolls"
+          ],
+          "benefits": [
+            "Boosts circulation and energy",
+            "Reduces muscle stiffness",
+            "Supports hydration habits",
+            "Improves focus and alertness"
+          ],
+          "suggested_videos": [
+            "https://example.com/water-movement-challenge-video"
+          ],
+          "time_required": "5–10 minutes per hour",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Chair or standing space",
+            "Water bottle"
+          ],
+          "targeted_body_area": [
+            "Full body",
+            "Muscles",
+            "Joints"
+          ],
+          "endtitle": "Hydrate and Move",
+          "endline": "Daily hydration paired with movement boosts energy and wellness.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "hydration",
+            "movement",
+            "wellness challenge",
+            "daily habit"
+          ]
+        },
+        {
+          "item_id": "6",
+          "title": "Step-Count Challenge to Improve Circulation",
+          "category": "wellness",
+          "image": "/images/step-count-challenge.jpg",
+          "sub_heading": "Increase daily steps for better circulation and energy",
+          "IntroPara": "Set a daily step goal and gradually increase activity to promote circulation, heart health, and overall wellness.",
+          "content": "Track your steps using a phone or wearable. Aim for incremental increases each day. Include short walks during breaks, parking further from destinations, and taking stairs instead of elevators.",
+          "problems": [
+            "Poor circulation from inactivity",
+            "Low daily movement",
+            "Reduced energy and alertness"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": false,
+          "exercise": [
+            "Short indoor walks",
+            "Outdoor walking",
+            "Stair climbing",
+            "Light step-ups",
+            "Stretch breaks after walking"
+          ],
+          "benefits": [
+            "Improves circulation",
+            "Boosts energy levels",
+            "Supports cardiovascular health",
+            "Builds consistent movement habit"
+          ],
+          "suggested_videos": [
+            "https://example.com/step-count-challenge-video"
+          ],
+          "time_required": "Varies with step goal",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Phone or step tracker",
+            "Comfortable shoes"
+          ],
+          "targeted_body_area": [
+            "Legs",
+            "Feet",
+            "Full body"
+          ],
+          "endtitle": "Step Up Daily",
+          "endline": "Daily steps improve circulation, energy, and overall health.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "step count",
+            "circulation",
+            "wellness challenge",
+            "daily movement"
+          ]
+        },
+        {
+          "item_id": "7",
+          "title": "Core Strengthening Mini-Challenge",
+          "category": "wellness",
+          "image": "/images/core-challenge.jpg",
+          "sub_heading": "Build a stronger core in just a few minutes daily",
+          "IntroPara": "Strengthen your core muscles with a short daily routine to improve posture, stability, and overall body strength.",
+          "content": "Perform a combination of planks, bridges, and seated core twists. Start with 5 minutes daily and gradually increase duration or repetitions. Focus on controlled movements and engaging the abdominal muscles.",
+          "problems": [
+            "Weak core leading to poor posture",
+            "Lower back discomfort",
+            "Reduced stability and balance"
+          ],
+          "routine": true,
+          "workout_based": true,
+          "yoga": true,
+          "exercise": [
+            "Plank hold",
+            "Bridge pose",
+            "Seated torso twists",
+            "Dead bug exercise",
+            "Bird-dog exercise"
+          ],
+          "benefits": [
+            "Strengthens core muscles",
+            "Improves posture and stability",
+            "Reduces risk of lower back pain",
+            "Enhances balance and functional strength"
+          ],
+          "suggested_videos": [
+            "https://example.com/core-challenge-video"
+          ],
+          "time_required": "5–10 minutes daily",
+          "difficulty_level": "Beginner to Intermediate",
+          "equipment_needed": [
+            "Mat or soft surface"
+          ],
+          "targeted_body_area": [
+            "Abdominals",
+            "Lower back",
+            "Core"
+          ],
+          "endtitle": "Strong Core, Strong Body",
+          "endline": "Daily mini core exercises improve posture, stability, and overall strength.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "core challenge",
+            "strength",
+            "wellness challenge",
+            "daily habit"
+          ]
+        },
+        {
+          "item_id": "8",
+          "title": "Weekly Gratitude and Wellness Journaling Challenge",
+          "category": "wellness",
+          "image": "/images/journaling-challenge.jpg",
+          "sub_heading": "Boost mental wellness and mindfulness through journaling",
+          "IntroPara": "A weekly challenge to reflect on gratitude and track wellness habits, enhancing mindfulness, positivity, and emotional resilience.",
+          "content": "Spend 5–10 minutes each day writing about things you are grateful for and noting wellness habits like sleep, water intake, and exercise. Review entries at the end of the week to identify progress and patterns.",
+          "problems": [
+            "Stress and mental fatigue",
+            "Low mindfulness and self-awareness",
+            "Difficulty tracking wellness habits"
+          ],
+          "routine": true,
+          "workout_based": false,
+          "yoga": true,
+          "exercise": [
+            "Daily gratitude journaling",
+            "Tracking hydration, movement, and sleep",
+            "Reflective prompts for mindfulness",
+            "Weekly review of wellness habits"
+          ],
+          "benefits": [
+            "Improves mental wellness and mindfulness",
+            "Encourages reflection and gratitude",
+            "Supports healthy habits tracking",
+            "Enhances emotional resilience"
+          ],
+          "suggested_videos": [
+            "https://example.com/journaling-challenge-video"
+          ],
+          "time_required": "5–10 minutes daily",
+          "difficulty_level": "Beginner",
+          "equipment_needed": [
+            "Notebook or journal",
+            "Pen"
+          ],
+          "targeted_body_area": [
+            "Mind"
+          ],
+          "endtitle": "Reflect and Grow",
+          "endline": "Daily journaling cultivates mindfulness, gratitude, and wellness awareness.",
+          "credentials": false,
+          "credits": "",
+          "tags": [
+            "journaling",
+            "mindfulness",
+            "wellness challenge",
+            "daily habit"
+          ]
+        }
+      ]
+    }
+  ]
+}

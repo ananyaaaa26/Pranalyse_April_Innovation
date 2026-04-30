@@ -1,0 +1,41 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fontsource/im-fell-french-canon-sc": "^5.2.7",
+    "@google-cloud/text-to-speech": "^6.4.0",
+    "@radix-ui/react-accordion": "^1.2.12",
+    "@react-oauth/google": "^0.13.4",
+    "chart.js": "^4.5.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.36.0",
+    "lucide-react": "^0.577.0",
+    "next": "14.2.4",
+    "next-auth": "^4.24.13",
+    "react": "18",
+    "react-calendar": "^6.0.0",
+    "react-chartjs-2": "^5.3.1",
+    "react-dom": "18",
+    "react-icons": "^5.6.0",
+    "react-typed": "^2.0.12",
+    "tailwind-merge": "^3.5.0",
+    "typed.js": "^3.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.2",
+    "@types/node": "20",
+    "@types/react": "19",
+    "@types/react-dom": "19",
+    "autoprefixer": "^10.4.27",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.2.1",
+    "typescript": "^5"
+  }
+}

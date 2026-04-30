@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Lifestyle",
+    "icon": { "src": "holistichealth/icons/LifestyleIcon.png" },
+    "summary": "Your daily routine feels a bit unstructured right now. Small habits like irregular meals and inconsistent schedules are affecting your overall balance. Your physical activity is currently very low, and you’ve been sitting for prolonged periods, which should be addressed before it leads to more serious issues.",
+    "hoverColor": "#FF7A00"
+  },
+  {
+    "id": 2,
+    "title": "Nutrition",
+    "icon": { "src": "holistichealth/icons/NutritionIcon.png" },
+    "summary": "Your nutrition needs attention. You’re currently eating only two meals a day and not consistently fueling your body with the right nutrients. This is likely impacting your energy levels, recovery, and overall well-being.",
+    "hoverColor": "#00C853"
+  },
+  {
+    "id": 3,
+    "title": "Strength",
+    "icon": { "src": "holistichealth/icons/StrengthIcon.png" },
+    "summary": "Your current strength levels are quite low, and there’s a clear opportunity to improve. Currently, no structured workout is being done. Even basic resistance training could make a noticeable difference quickly.",
+    "hoverColor": "#FF3B30"
+  },
+  {
+    "id": 4,
+    "title": "Mobility",
+    "icon": { "src": "holistichealth/icons/MobilityIcon.png" },
+    "summary": "Your mobility looks good. You’re moving well without noticeable stiffness or restriction, so maintaining this level should be sufficient.",
+    "hoverColor": "#0096FF"
+  },
+  {
+    "id": 5,
+    "title": "Mental Wellness",
+    "icon": { "src": "holistichealth/icons/MentalWellnessIcon.png" },
+    "summary": "Your mental wellness is currently average. You’re trying to cope with multiple challenges, experiencing stress and tension, and feeling fatigued quickly even after 8–10 hours of sleep. This may also indicate that you might be feeling low or sad about certain things.",
+    "hoverColor": "#00B8D9"
+  },
+  {
+    "id": 6,
+    "title": "Sleep",
+    "icon": { "src": "holistichealth/icons/SleepIcon.png" },
+    "summary": "Your sleep is in a good place. You’re getting fairly consistent and restful sleep, which supports your recovery and overall energy.",
+    "hoverColor": "#5E60CE"
+  }
+]
